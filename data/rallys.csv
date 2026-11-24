@@ -1,0 +1,634 @@
+anio,slug,rally,superficie,distancia_tramos_km,distancia_total_km,inscritos,finalizados,tramos,ganador,auto,tiempo_s,url
+1973,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,420.0,2195.0,278,51,18,"Andruet, Jean-Claude",Renault-Alpine A110 1800,20524,https://www.juwra.com/monte_carlo_1973.html
+1973,sweden,Swedish Rally,nieve,660.0,1700.0,73,42,36,"Blomqvist, Stig",Saab 96 V4,33511,https://www.juwra.com/sweden_1973.html
+1973,morocco,Rallye du Maroc,tierra,1258.0,5304.0,66,12,11,"Darniche, Bernard",Renault-Alpine A110 1800,54082,https://www.juwra.com/morocco_1973.html
+1973,acropolis,Acropolis Rally,asfalto,527.15,3336.15,83,11,47,"Therier, Jean-Luc",Renault-Alpine A110 1800,27478,https://www.juwra.com/acropolis_1973.html
+1973,poland,Polish Rally - Rajd Polski,tierra,742.3,3920.3,67,3,55,"Warmbold, Achim",Fiat 124 Abarth Spider,30494,https://www.juwra.com/poland_1973.html
+1973,finland,1000 Lakes Rally,tierra,517.2,2079.0,122,55,43,"Makinen, Timo",Ford Escort RS1600,17630,https://www.juwra.com/finland_1973.html
+1973,austria,Austrian Alpine Rally,tierra,324.5,2314.5,74,25,30,"Warmbold, Achim",BMW 2002Tii,14336,https://www.juwra.com/austria_1973.html
+1973,san_remo,San Remo Rally,asfalto,354.3,1625.3,120,54,37,"Therier, Jean-Luc",Renault-Alpine A110 1800,28892,https://www.juwra.com/san_remo_1973.html
+1973,press_on_regardless,Press on Regardless,tierra,549.15,3284.15,68,23,85,"Boyce, Walter",Toyota Corolla,25108,https://www.juwra.com/press_on_regardless_1973.html
+1973,rac_rally,Daily Mirror RAC Rally,tierra,502.2,3020.0,241,91,80,"Makinen, Timo",Ford Escort RS1600,24428,https://www.juwra.com/rac_rally_1973.html
+1973,corsica,Tour de Corse,asfalto,371.8,1179.8,50,22,21,"Nicolas, Jean-Pierre",Renault-Alpine A110 1800,18391,https://www.juwra.com/corsica_1973.html
+1974,portugal,Portugal,asfalto,454.0,2057.2,126,36,32,"Pinto, Raffaele",Fiat 124 Abarth Spider,23175,https://www.juwra.com/portugal_1974.html
+1974,finland,1000 Lakes Rally,tierra,343.5,1179.9,120,87,36,"Mikkola, Hannu",Ford Escort RS1600,11502,https://www.juwra.com/finland_1974.html
+1974,san_remo,San Remo,asfalto,416.0,1805.0,106,54,,"Munari, Sandro",Lancia Stratos HF HF,33163,https://www.juwra.com/san_remo_1974.html
+1974,rideau_lakes,Rally of the Rideau Lakes,tierra,367.21,1577.6,65,19,40,"Munari, Sandro",Lancia Stratos HF HF,17672,https://www.juwra.com/rideau_lakes_1974.html
+1974,press_on_regardless,Press-on-Regardless,tierra,155.85,997.54,69,29,51,"Therier, Jean-Luc",Renault 17 Gordini,19787,https://www.juwra.com/press_on_regardless_1974.html
+1974,corsica,Tour de Corse,asfalto,374.9,1324.9,101,24,14,"Andruet, Jean-Claude",Lancia Stratos HF HF,17350,https://www.juwra.com/corsica_1974.html
+1975,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,472.0,2345.0,114,43,22,"Munari, Sandro",Lancia Stratos HF,23159,https://www.juwra.com/monte_carlo_1975.html
+1975,acropolis,Acropolis,tierra,580.0,2496.0,87,17,48,"Rohrl, Walter",Opel Ascona,33636,https://www.juwra.com/acropolis_1975.html
+1975,morocco,Rallye du Maroc,tierra,1962.0,4083.0,103,14,9,"Mikkola, Hannu",Peugeot 504,84648,https://www.juwra.com/morocco_1975.html
+1975,portugal,Rally of Portugal,asfalto,494.9,2006.5,73,22,34,"Alen, Markku",Fiat 124 Abarth Spider,23055,https://www.juwra.com/portugal_1975.html
+1975,finland,1000 Lakes Rally,tierra,287.5,1333.5,103,60,42,"Mikkola, Hannu",Toyota Corolla,10353,https://www.juwra.com/finland_1975.html
+1975,san_remo,Rallye Sanremo,asfalto,977.0,1736.0,118,54,37,"Waldegard, Bjorn",Lancia Stratos HF,37372,https://www.juwra.com/san_remo_1975.html
+1975,corsica,Tour de Corse,asfalto,391.9,1243.9,79,22,10,"Darniche, Bernard",Lancia Stratos HF,17906,https://www.juwra.com/corsica_1975.html
+1976,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,530.5,2670.0,163,84,23,"Munari, Sandro",Lancia Stratos HF,23110,https://www.juwra.com/monte_carlo_1976.html
+1976,portugal,Rally of Portugal,asfalto,435.4,2087.9,59,21,39,"Munari, Sandro",Lancia Stratos HF,20486,https://www.juwra.com/portugal_1976.html
+1976,acropolis,Acropolis Rally,tierra,716.0,2635.0,136,34,,"Kallstrom, Harry",Datsun Violet,31394,https://www.juwra.com/acropolis_1976.html
+1976,morocco,Rallye du Maroc,tierra,1661.0,4083.0,102,19,9,"Nicolas, Jean-Pierre",Peugeot 504,73215,https://www.juwra.com/morocco_1976.html
+1976,finland,1000 Lakes Rally,tierra,428.0,1475.0,96,48,45,"Alen, Markku",Fiat 131 Abarth,15018,https://www.juwra.com/finland_1976.html
+1976,san_remo,Rallye Sanremo,asfalto,780.0,1509.0,133,68,,"Waldegard, Bjorn",Lancia Stratos HF,37660,https://www.juwra.com/san_remo_1976.html
+1976,corsica,Tour de Corse,asfalto,630.0,1319.0,88,11,9,"Munari, Sandro",Lancia Stratos HF,30235,https://www.juwra.com/corsica_1976.html
+1976,rac_rally,Lombard RAC Rally,tierra,504.0,3248.0,197,71,77,"Clark, Roger",Ford Escort RS1800,21746,https://www.juwra.com/rac_rally_1976.html
+1977,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,505.5,2647.5,217,118,27,"Munari, Sandro",Lancia Stratos HF,23773,https://www.juwra.com/monte_carlo_1977.html
+1977,sweden,Swedish Rally,nieve,472.0,1522.0,90,37,,"Blomqvist, Stig",Saab 99EMS,28937,https://www.juwra.com/sweden_1977.html
+1977,portugal,Rally of Portugal Port Wine,asfalto,546.9,2428.9,103,27,46,"Alen, Markku",Fiat 131 Abarth,24707,https://www.juwra.com/portugal_1977.html
+1977,new_zealand,South Pacific Rally - New Zealand,asfalto,2092.59,3776.59,102,35,75,"Bacchelli, Fulvio",Fiat 131 Abarth,88195,https://www.juwra.com/new_zealand_1977.html
+1977,acropolis,Acropolis Rally,tierra,765.0,2760.0,167,29,,"Waldegard, Bjorn",Ford Escort RS1800,34317,https://www.juwra.com/acropolis_1977.html
+1977,finland,1000 Lakes Rally,tierra,452.9,1472.9,102,44,46,"Hamalainen, Kyosti",Ford Escort RS1800,15966,https://www.juwra.com/finland_1977.html
+1977,quebec,Rallye Criterium Molson du Quebec,tierra,536.4,1590.4,59,15,17,"Salonen, Timo",Fiat 131 Abarth,18834,https://www.juwra.com/quebec_1977.html
+1977,san_remo,Sanremo Rally,asfalto,828.65,1606.65,133,38,33,"Andruet, Jean-Claude",Fiat 131 Abarth,37663,https://www.juwra.com/san_remo_1977.html
+1977,corsica,Tour de Corse,asfalto,645.8,1350.0,134,32,13,"Darniche, Bernard",Fiat 131 Abarth,29620,https://www.juwra.com/corsica_1977.html
+1977,rac_rally,Lombard RAC Rally,tierra,658.35,3057.35,182,67,69,"Waldegard, Bjorn",Ford Escort RS1800,30086,https://www.juwra.com/rac_rally_1977.html
+1978,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,470.0,2605.0,231,129,29,"Nicolas, Jean-Pierre",Porsche 911,25023,https://www.juwra.com/monte_carlo_1978.html
+1978,sweden,Swedish Rally,nieve,598.7,1443.7,116,60,38,"Waldegard, Bjorn",Ford Escort RS1800,24160,https://www.juwra.com/sweden_1978.html
+1978,portugal,Vinho do Porto Rallye de Portugal,asfalto,631.5,2506.4,112,20,46,"Alen, Markku",Fiat 131 Abarth,27933,https://www.juwra.com/portugal_1978.html
+1978,acropolis,Acropolis Rally,asfalto,734.1,2732.1,183,37,54,"Rohrl, Walter",Fiat 131 Abarth,36050,https://www.juwra.com/acropolis_1978.html
+1978,finland,1000 Lakes Rally,tierra,365.7,1397.7,109,55,45,"Alen, Markku",Fiat 131 Abarth,12610,https://www.juwra.com/finland_1978.html
+1978,quebec,Criterium Molson du Quebec Rally,tierra,533.7,1427.85,61,24,14,"Rohrl, Walter",Fiat 131 Abarth,17663,https://www.juwra.com/quebec_1978.html
+1978,san_remo,Rallye San Remo,asfalto,886.5,1656.5,135,56,55,"Alen, Markku",Lancia Stratos HF,39208,https://www.juwra.com/san_remo_1978.html
+1978,ivory_coast,Rallye Bandama Cote d'Ivoire,asfalto,5472.0,5472.0,55,9,,"Nicolas, Jean-Pierre",Peugeot 504 V6 Coupe,196080,https://www.juwra.com/ivory_coast_1978.html
+1978,corsica,Tour de Corse,asfalto,543.1,1160.0,116,37,10,"Darniche, Bernard",Fiat 131 Abarth,24454,https://www.juwra.com/corsica_1978.html
+1978,rac_rally,Lombard RAC Rally,tierra,692.03,3132.03,175,61,76,"Mikkola, Hannu",Ford Escort RS1800,31643,https://www.juwra.com/rac_rally_1978.html
+1979,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,600.0,2554.0,255,84,30,"Darniche, Bernard",Lancia Stratos HF,29618,https://www.juwra.com/monte_carlo_1979.html
+1979,sweden,International Swedish Rally,nieve,630.0,1445.0,113,39,38,"Blomqvist, Stig",Saab 99 Turbo,23689,https://www.juwra.com/sweden_1979.html
+1979,portugal,Vinho do Porto Rallye de Portugal,asfalto,737.5,2666.9,108,16,45,"Mikkola, Hannu",Ford Escort RS1800,33232,https://www.juwra.com/portugal_1979.html
+1979,acropolis,Acropolis Rally,tierra,943.3,2954.3,174,20,58,"Waldegard, Bjorn",Ford Escort RS1800,48906,https://www.juwra.com/acropolis_1979.html
+1979,new_zealand,Motogard Rally of New Zealand,asfalto,657.0,1992.0,83,37,42,"Mikkola, Hannu",Ford Escort RS1800,29147,https://www.juwra.com/new_zealand_1979.html
+1979,finland,Rally of 1000 Lakes,tierra,423.5,1448.5,133,74,47,"Alen, Markku",Fiat 131 Abarth,14471,https://www.juwra.com/finland_1979.html
+1979,quebec,Rallye Criterium Molson du Quebec,asfalto,387.3,1895.3,61,13,32,"Waldegard, Bjorn",Ford Escort RS1800,12932,https://www.juwra.com/quebec_1979.html
+1979,san_remo,Rallye San Remo,asfalto,953.0,2941.0,72,26,74,"Fassina, Antonio",Lancia Stratos HF,45437,https://www.juwra.com/san_remo_1979.html
+1979,corsica,Tour de Corse,asfalto,1128.9,2040.0,125,14,22,"Darniche, Bernard",Lancia Stratos HF,52606,https://www.juwra.com/corsica_1979.html
+1979,rac_rally,Lombard RAC Rally,tierra,661.48,2877.48,217,74,59,"Mikkola, Hannu",Ford Escort RS1800,29018,https://www.juwra.com/rac_rally_1979.html
+1979,ivory_coast,Cote du Ivoire Rallye Bandama,asfalto,5622.0,5622.0,67,8,,"Mikkola, Hannu",Mercedes Benz 450 SLC 5.0,211980,https://www.juwra.com/ivory_coast_1979.html
+1980,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,595.3,3063.3,255,126,33,"Rohrl, Walter",Fiat 131 Abarth,31340,https://www.juwra.com/monte_carlo_1980.html
+1980,sweden,International Swedish Rally,nieve,413.5,1357.5,158,79,29,"Kullang, Anders",Opel Ascona 400,15472,https://www.juwra.com/sweden_1980.html
+1980,portugal,Vinho do Porto Rallye de Portugal,asfalto,673.5,2641.4,121,16,47,"Rohrl, Walter",Fiat 131 Abarth,31535,https://www.juwra.com/portugal_1980.html
+1980,acropolis,Acropolis Rally,tierra,946.96,2746.96,154,37,56,"Vatanen, Ari",Ford Escort RS1800,46544,https://www.juwra.com/acropolis_1980.html
+1980,argentina,Rally Codasur Ultra Movil YPF,tierra,1223.7,3481.7,100,23,14,"Rohrl, Walter",Fiat 131 Abarth,46116,https://www.juwra.com/argentina_1980.html
+1980,finland,The Rally of the 1000 Lakes,tierra,472.2,1421.0,134,68,48,"Alen, Markku",Fiat 131 Abarth,15851,https://www.juwra.com/finland_1980.html
+1980,new_zealand,Motogard Rally,tierra,1034.0,2201.0,84,43,41,"Salonen, Timo",Datsun 160J,43617,https://www.juwra.com/new_zealand_1980.html
+1980,san_remo,Rallye San Remo,asfalto,800.6,2867.6,88,19,51,"Rohrl, Walter",Fiat 131 Abarth,37320,https://www.juwra.com/san_remo_1980.html
+1980,corsica,Tour de Corse,asfalto,1128.1,1603.1,133,16,18,"Therier, Jean-Luc",Porsche 911,53503,https://www.juwra.com/corsica_1980.html
+1980,rac_rally,Lombard RAC Rally,tierra,693.77,2833.77,150,48,70,"Toivonen, Henri",Talbot Sunbeam,29853,https://www.juwra.com/rac_rally_1980.html
+1980,ivory_coast,Rallye Cote d'Ivoire,asfalto,5226.0,5226.0,52,11,,"Waldegard, Bjorn",Mercedes Benz 500 SLC,216420,https://www.juwra.com/ivory_coast_1980.html
+1981,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,750.0,3923.0,274,133,32,"Ragnotti, Jean",Renault 5 Turbo,35755,https://www.juwra.com/monte_carlo_1981.html
+1981,sweden,The International Swedish Rally,nieve,359.0,1358.0,116,73,25,"Mikkola, Hannu",Audi quattro,13687,https://www.juwra.com/sweden_1981.html
+1981,portugal,Vinho do Porto Rallye de Portugal,asfalto,678.0,2582.9,110,24,46,"Alen, Markku",Fiat 131 Abarth,30446,https://www.juwra.com/portugal_1981.html
+1981,corsica,"Tour de Corse, Rallye de France",asfalto,1144.6,1613.6,126,42,24,"Darniche, Bernard",Lancia Stratos HF,51983,https://www.juwra.com/corsica_1981.html
+1981,acropolis,Acropolis Rally,tierra,958.6,2504.6,133,22,57,"Vatanen, Ari",Ford Escort RS1800,47845,https://www.juwra.com/acropolis_1981.html
+1981,argentina,Rally Codasur,tierra,1332.6,3898.0,103,26,17,"Frequelin, Guy",Talbot Sunbeam,51772,https://www.juwra.com/argentina_1981.html
+1981,brazil,Marlboro Rallye do Brasil,tierra,704.0,1659.0,20,9,21,"Vatanen, Ari",Ford Escort RS1800,34780,https://www.juwra.com/brazil_1981.html
+1981,finland,The Rally of 1000 Lakes,tierra,439.89,1418.89,152,66,48,"Vatanen, Ari",Ford Escort RS1800,14847,https://www.juwra.com/finland_1981.html
+1981,san_remo,Rallye San Remo,asfalto,750.0,2792.0,66,26,61,"Mouton, Michele",Audi quattro,29150,https://www.juwra.com/san_remo_1981.html
+1981,ivory_coast,Rallye Cote d'Ivoire,tierra,5087.0,5087.0,51,9,,"Salonen, Timo",Datsun Violet,189420,https://www.juwra.com/ivory_coast_1981.html
+1981,rac_rally,Lombard RAC Rally,tierra,746.74,2891.74,154,54,65,"Mikkola, Hannu",Audi quattro,30600,https://www.juwra.com/rac_rally_1981.html
+1982,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,680.71,4082.71,306,140,32,"Rohrl, Walter",Opel Ascona 400,30033,https://www.juwra.com/monte_carlo_1982.html
+1982,sweden,International Swedish Rally,nieve,352.51,1384.51,116,68,25,"Blomqvist, Stig",Audi quattro,13215,https://www.juwra.com/sweden_1982.html
+1982,portugal,Port Wine Rally of Portugal,asfalto,637.07,2362.23,107,23,40,"Mouton, Michele",Audi quattro,27576,https://www.juwra.com/portugal_1982.html
+1982,corsica,Tour de Corse - Rallye de France,asfalto,1176.1,1616.7,181,47,27,"Ragnotti, Jean",Renault 5 Turbo,51079,https://www.juwra.com/corsica_1982.html
+1982,acropolis,Acropolis Rally,tierra,967.58,2566.0,136,32,57,"Mouton, Michele",Audi quattro,46484,https://www.juwra.com/acropolis_1982.html
+1982,new_zealand,Motogard Rally of New Zealand,tierra,1014.26,2216.26,71,31,38,"Waldegard, Bjorn",Toyota Celica,37688,https://www.juwra.com/new_zealand_1982.html
+1982,brazil,Brazil,tierra,705.98,2294.0,22,4,29,"Mouton, Michele",Audi quattro,29784,https://www.juwra.com/brazil_1982.html
+1982,finland,The Rally of the 1000 Lakes,tierra,470.82,1432.0,171,68,47,"Mikkola, Hannu",Audi quattro,15545,https://www.juwra.com/finland_1982.html
+1982,san_remo,Rallye San Remo,asfalto,735.44,2663.0,90,27,56,"Blomqvist, Stig",Audi quattro,31067,https://www.juwra.com/san_remo_1982.html
+1982,ivory_coast,Marlboro Rallye Cote d'Ivoire,asfalto,4935.51,4935.51,51,6,,"Rohrl, Walter",Opel Ascona 400,31410,https://www.juwra.com/ivory_coast_1982.html
+1982,rac_rally,Lombard RAC Rally,tierra,691.77,2972.21,161,63,69,"Mikkola, Hannu",Audi quattro,28906,https://www.juwra.com/rac_rally_1982.html
+1983,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,716.8,4196.8,263,149,31,"Rohrl, Walter",Lancia Rally 037,28737,https://www.juwra.com/monte_carlo_1983.html
+1983,sweden,Swedish Rally,nieve,470.1,1499.1,137,67,25,"Mikkola, Hannu",Audi quattro A1,16127,https://www.juwra.com/sweden_1983.html
+1983,portugal,Port Wine Rally of Portugal,asfalto,643.0,2399.94,103,31,43,"Mikkola, Hannu",Audi quattro A1,26244,https://www.juwra.com/portugal_1983.html
+1983,corsica,Tour de Corse,asfalto,1066.1,1715.1,178,57,32,"Alen, Markku",Lancia Rally 037,45818,https://www.juwra.com/corsica_1983.html
+1983,acropolis,Acropolis Rally,tierra,836.73,2257.43,120,36,46,"Rohrl, Walter",Lancia Rally 037,40342,https://www.juwra.com/acropolis_1983.html
+1983,new_zealand,Sanyo Rally of New Zealand,tierra,1071.09,2624.09,59,33,33,"Rohrl, Walter",Lancia Rally 037,43813,https://www.juwra.com/new_zealand_1983.html
+1983,argentina,Marlboro Rally Argentina San Carlos de Bariloche,tierra,1253.96,3243.62,94,27,18,"Mikkola, Hannu",Audi quattro A2,37134,https://www.juwra.com/argentina_1983.html
+1983,finland,Rally of the 1000 Lakes,tierra,472.43,1461.0,180,71,50,"Mikkola, Hannu",Audi quattro A2,15824,https://www.juwra.com/finland_1983.html
+1983,san_remo,Rallye San Remo,asfalto,775.89,2695.0,97,36,58,"Alen, Markku",Lancia Rally 037,31817,https://www.juwra.com/san_remo_1983.html
+1983,ivory_coast,Rallye Cote d'Ivoire,tierra,4498.0,4498.0,50,8,,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,19080,https://www.juwra.com/ivory_coast_1983.html
+1983,rac_rally,Lombard RAC Rally,tierra,797.19,2192.41,139,61,59,"Blomqvist, Stig",Audi quattro A2,31828,https://www.juwra.com/rac_rally_1983.html
+1984,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,652.6,3328.9,222,120,30,"Rohrl, Walter",Audi quattro A2,31949,https://www.juwra.com/monte_carlo_1984.html
+1984,sweden,International Swedish Rally,nieve,447.7,1703.0,66,41,27,"Blomqvist, Stig",Audi quattro A2,15405,https://www.juwra.com/sweden_1984.html
+1984,portugal,Port Wine Rally of Portugal,asfalto,685.0,2382.36,79,20,45,"Mikkola, Hannu",Audi quattro A2,27332,https://www.juwra.com/portugal_1984.html
+1984,corsica,Tour de Corse,asfalto,1130.29,1618.0,158,58,30,"Alen, Markku",Lancia Rally 037 evo,48296,https://www.juwra.com/corsica_1984.html
+1984,acropolis,Acropolis Rally,tierra,796.62,2265.0,104,32,47,"Blomqvist, Stig",Audi quattro A2,38511,https://www.juwra.com/acropolis_1984.html
+1984,new_zealand,Sanyo Rally of New Zealand,tierra,1063.26,2626.0,63,35,45,"Blomqvist, Stig",Audi quattro A2,38441,https://www.juwra.com/new_zealand_1984.html
+1984,argentina,Marlboro Rally of Argentina YPF Cordoba,tierra,948.58,2619.0,105,21,24,"Blomqvist, Stig",Audi quattro A2,38018,https://www.juwra.com/argentina_1984.html
+1984,finland,1000 Lakes Rally,tierra,457.27,1416.31,151,74,51,"Vatanen, Ari",Peugeot 205 Turbo 16,14929,https://www.juwra.com/finland_1984.html
+1984,san_remo,Rallye San Remo,asfalto,777.98,2546.29,104,35,56,"Vatanen, Ari",Peugeot 205 Turbo 16,31474,https://www.juwra.com/san_remo_1984.html
+1984,ivory_coast,Rallye Cote d'Ivoire,tierra,4012.0,4012.0,50,6,,"Blomqvist, Stig",Audi quattro Sport,19440,https://www.juwra.com/ivory_coast_1984.html
+1984,rac_rally,Lombard RAC Rally,tierra,868.54,3224.54,124,52,56,"Vatanen, Ari",Peugeot 205 Turbo 16,33588,https://www.juwra.com/rac_rally_1984.html
+1985,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,851.7,3999.0,138,87,34,"Vatanen, Ari",Peugeot 205 Turbo 16,37249,https://www.juwra.com/monte_carlo_1985.html
+1985,sweden,The International Swedish Rally,nieve,513.63,1642.0,115,56,29,"Vatanen, Ari",Peugeot 205 Turbo 16,16729,https://www.juwra.com/sweden_1985.html
+1985,portugal,Rallye de Portugal,asfalto,730.5,2455.0,94,28,47,"Salonen, Timo",Peugeot 205 Turbo 16,29245,https://www.juwra.com/portugal_1985.html
+1985,corsica,Tour de Corse,asfalto,1075.9,1603.0,139,45,30,"Ragnotti, Jean",Renault 5 Maxi Turbo,46455,https://www.juwra.com/corsica_1985.html
+1985,acropolis,Acropolis Rally,tierra,811.02,2296.0,110,45,47,"Salonen, Timo",Peugeot 205 Turbo 16,37219,https://www.juwra.com/acropolis_1985.html
+1985,new_zealand,AWA Clarion Rally of New Zealand,tierra,898.5,2450.0,67,39,48,"Salonen, Timo",Peugeot 205 Turbo 16,30556,https://www.juwra.com/new_zealand_1985.html
+1985,argentina,Rally of Argentina,tierra,956.71,2615.0,138,39,23,"Salonen, Timo",Peugeot 205 Turbo 16,36273,https://www.juwra.com/argentina_1985.html
+1985,finland,1000 Lakes Rally,tierra,458.01,1422.57,188,83,51,"Salonen, Timo",Peugeot 205 Turbo 16 E2,15035,https://www.juwra.com/finland_1985.html
+1985,san_remo,Rally San Remo,asfalto,650.56,2340.56,98,33,45,"Rohrl, Walter",Audi quattro Sport S1,25810,https://www.juwra.com/san_remo_1985.html
+1985,ivory_coast,Rallye Cote d'Ivoire,tierra,4103.0,4103.0,50,8,,"Kankkunen, Juha",Toyota Celica Twincam Turbo,17160,https://www.juwra.com/ivory_coast_1985.html
+1985,rac_rally,Lombard RAC Rally,tierra,855.77,3465.55,155,62,65,"Toivonen, Henri",Lancia Delta S4,34325,https://www.juwra.com/rac_rally_1985.html
+1986,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,881.1,3984.0,175,85,36,"Toivonen, Henri",Lancia Delta S4,36684,https://www.juwra.com/monte_carlo_1986.html
+1986,sweden,The International Swedish Rally,nieve,556.79,1670.0,107,62,30,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,18559,https://www.juwra.com/sweden_1986.html
+1986,portugal,Rally de Portugal Vinho do Porto,asfalto,659.5,2428.47,110,35,48,"Moutinho, Joaquim",Renault 5 Turbo,28244,https://www.juwra.com/portugal_1986.html
+1986,corsica,Tour de Corse - Rallye de France,asfalto,1022.8,1551.0,128,31,30,"Saby, Bruno",Peugeot 205 Turbo 16 E2,42764,https://www.juwra.com/corsica_1986.html
+1986,acropolis,Acropolis Rally,asfalto,572.13,1890.0,102,34,46,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,26401,https://www.juwra.com/acropolis_1986.html
+1986,new_zealand,Rally of New Zealand,tierra,571.03,1953.27,55,40,35,"Kankkunen, Juha",Peugeot 205 Turbo 16 E2,20625,https://www.juwra.com/new_zealand_1986.html
+1986,argentina,Marlboro Rally of Argentina,tierra,593.76,2072.0,150,50,27,"Biasion, Massimo",Lancia Delta S4,23786,https://www.juwra.com/argentina_1986.html
+1986,finland,Rally of the 1000 Lakes,tierra,381.86,1344.89,169,81,48,"Salonen, Timo",Peugeot 205 Turbo 16 E2,12765,https://www.juwra.com/finland_1986.html
+1986,ivory_coast,Rallye Cote d'Ivoire,tierra,3763.0,3763.0,49,11,,"Waldegard, Bjorn",Toyota Celica Twincam Turbo,5340,https://www.juwra.com/ivory_coast_1986.html
+1986,rac_rally,Lombard RAC Rally,tierra,515.79,2537.93,151,83,45,"Salonen, Timo",Peugeot 205 Turbo 16 E2,19271,https://www.juwra.com/rac_rally_1986.html
+1986,olympus_rally,Olympus Rally,tierra,525.89,1385.64,50,25,40,"Alen, Markku",Lancia Delta S4,19570,https://www.juwra.com/olympus_rally_1986.html
+1987,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,579.95,3162.0,163,93,26,"Biasion, Massimo",Lancia Delta HF 4WD,27590,https://www.juwra.com/monte_carlo_1987.html
+1987,sweden,The International Swedish Rally,nieve,402.32,1176.05,147,82,27,"Salonen, Timo",Mazda 323 4WD,15060,https://www.juwra.com/sweden_1987.html
+1987,portugal,Rallye de Portugal,asfalto,603.5,2088.23,94,36,37,"Alen, Markku",Lancia Delta HF 4WD,25779,https://www.juwra.com/portugal_1987.html
+1987,corsica,Tour de Corse - Automobile Rallye de France,asfalto,618.2,1367.02,103,35,24,"Beguin, Bernard",BMW M3,26550,https://www.juwra.com/corsica_1987.html
+1987,acropolis,Acropolis Rally,tierra,537.7,1896.41,95,35,36,"Alen, Markku",Lancia Delta HF 4WD,26757,https://www.juwra.com/acropolis_1987.html
+1987,olympus_rally,Olympus Rally,tierra,539.2,1749.9,47,23,44,"Kankkunen, Juha",Lancia Delta HF 4WD,21564,https://www.juwra.com/olympus_rally_1987.html
+1987,new_zealand,Rally of New Zealand,tierra,590.34,2038.6,58,16,36,"Wittman, Franz",Lancia Delta HF 4WD,24960,https://www.juwra.com/new_zealand_1987.html
+1987,argentina,Marlboro Rally of Argentina,tierra,596.54,2214.58,64,23,27,"Biasion, Massimo",Lancia Delta HF 4WD,25827,https://www.juwra.com/argentina_1987.html
+1987,finland,Rally of the 1000 Lakes,tierra,499.65,1691.45,170,66,52,"Alen, Markku",Lancia Delta HF 4WD,18742,https://www.juwra.com/finland_1987.html
+1987,ivory_coast,Rallye Cote d'Ivoire,tierra,1074.01,3831.49,43,11,,"Eriksson, Kenneth",Volkswagen Golf GTi,2937,https://www.juwra.com/ivory_coast_1987.html
+1987,san_remo,Rallye San Remo,asfalto,530.21,2064.87,125,55,41,"Biasion, Massimo",Lancia Delta HF 4WD,22159,https://www.juwra.com/san_remo_1987.html
+1987,rac_rally,Lombard RAC Rally,tierra,493.87,2623.92,176,83,48,"Kankkunen, Juha",Lancia Delta HF 4WD,19596,https://www.juwra.com/rac_rally_1987.html
+1988,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,621.0,3052.9,181,109,26,"Saby, Bruno",Lancia Delta HF 4WD,26351,https://www.juwra.com/monte_carlo_1988.html
+1988,sweden,Swedish Rally,nieve,489.0,1648.76,158,67,36,"Alen, Markku",Lancia Delta HF 4WD,18151,https://www.juwra.com/sweden_1988.html
+1988,portugal,Rallye de Portugal,asfalto,588.9,2105.13,99,35,37,"Biasion, Massimo",Lancia Delta Integrale,24241,https://www.juwra.com/portugal_1988.html
+1988,corsica,Tour de Corse,asfalto,627.2,1332.28,93,42,30,"Auriol, Didier",Ford Sierra RS Cosworth,25924,https://www.juwra.com/corsica_1988.html
+1988,acropolis,Acropolis Rally,tierra,526.1,1775.18,102,45,32,"Biasion, Massimo",Lancia Delta Integrale,25380,https://www.juwra.com/acropolis_1988.html
+1988,olympus_rally,Olympus Rally,tierra,505.89,1509.4,35,21,38,"Biasion, Massimo",Lancia Delta Integrale,19724,https://www.juwra.com/olympus_rally_1988.html
+1988,new_zealand,Rothmans Rally of New Zealand,tierra,610.66,1975.43,51,24,40,"Haider, Josef",Opel Kadett GSi,27519,https://www.juwra.com/new_zealand_1988.html
+1988,argentina,Marlboro Rally of Argentina,tierra,583.6,2141.41,81,21,29,"Recalde, Jorge",Lancia Delta Integrale,25516,https://www.juwra.com/argentina_1988.html
+1988,finland,1000 Lakes Rally,tierra,496.33,1445.95,200,84,39,"Alen, Markku",Lancia Delta Integrale,16529,https://www.juwra.com/finland_1988.html
+1988,ivory_coast,Marlboro Cote d'Ivoire Rallye,tierra,50.23,3421.81,38,10,,"Ambrosino, Alain",Nissan 200SX,12891,https://www.juwra.com/ivory_coast_1988.html
+1988,san_remo,Rallye Sanremo - Rallye d'Italia,asfalto,531.86,2425.0,124,55,43,"Biasion, Massimo",Lancia Delta Integrale,22001,https://www.juwra.com/san_remo_1988.html
+1988,rac_rally,Lombard RAC Rally,tierra,604.43,2805.09,192,87,52,"Alen, Markku",Lancia Delta Integrale,26137,https://www.juwra.com/rac_rally_1988.html
+1989,sweden,International Swedish Rally,nieve,504.41,1665.56,133,75,37,"Carlsson, Ingvar",Mazda 323 4WD,17895,https://www.juwra.com/sweden_1989.html
+1989,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,613.25,2872.0,180,109,24,"Biasion, Massimo",Lancia Delta Integrale,26007,https://www.juwra.com/monte_carlo_1989.html
+1989,portugal,Rallye de Portugal,asfalto,576.8,2170.44,93,38,38,"Biasion, Massimo",Lancia Delta Integrale,24421,https://www.juwra.com/portugal_1989.html
+1989,corsica,Tour de Corse,asfalto,629.01,1439.85,85,39,33,"Auriol, Didier",Lancia Delta Integrale,25959,https://www.juwra.com/corsica_1989.html
+1989,acropolis,Rally Acropolis,tierra,589.51,1877.67,97,40,42,"Biasion, Massimo",Lancia Delta Integrale,27103,https://www.juwra.com/acropolis_1989.html
+1989,new_zealand,Rothmans Rally of New Zealand,tierra,595.0,1967.67,71,54,42,"Carlsson, Ingvar",Mazda 323 4WD,25195,https://www.juwra.com/new_zealand_1989.html
+1989,argentina,Rally Argentina,tierra,598.57,2119.44,78,33,30,"Ericsson, Mikael",Lancia Delta Integrale,25560,https://www.juwra.com/argentina_1989.html
+1989,finland,1000 Lakes Rally,tierra,507.83,1447.34,200,69,43,"Ericsson, Mikael",Mitsubishi Galant VR-4,16923,https://www.juwra.com/finland_1989.html
+1989,australia,Commonwealth Bank Australia Rally,tierra,544.27,1844.72,58,31,32,"Kankkunen, Juha",Toyota Celica GT-4 (ST165),19929,https://www.juwra.com/australia_1989.html
+1989,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,544.2,2086.2,107,34,34,"Biasion, Massimo",Lancia Delta HF Integrale 16v,24510,https://www.juwra.com/san_remo_1989.html
+1989,ivory_coast,Rallye Cote d'Ivoire,tierra,53.71,3528.17,60,7,,"Oreille, Alain",Renault 5 GT Turbo,30774,https://www.juwra.com/ivory_coast_1989.html
+1989,rac_rally,Lombard RAC Rally,tierra,603.57,3081.99,202,84,55,"Airikkala, Pentti",Mitsubishi Galant VR-4,22762,https://www.juwra.com/rac_rally_1989.html
+1990,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,556.31,3231.94,180,112,28,"Auriol, Didier",Lancia Delta HF Integrale 16v,21412,https://www.juwra.com/monte_carlo_1990.html
+1990,portugal,Rallye de Portugal - Vinho do Porto,asfalto,544.2,2047.51,108,34,39,"Biasion, Massimo",Lancia Delta HF Integrale 16v,22677,https://www.juwra.com/portugal_1990.html
+1990,corsica,Tour de Corse - Rallye de France,asfalto,602.25,1397.18,97,48,30,"Auriol, Didier",Lancia Delta HF Integrale 16v,24316,https://www.juwra.com/corsica_1990.html
+1990,acropolis,Rally Acropolis,tierra,583.88,2005.43,97,34,48,"Sainz, Carlos",Toyota Celica GT-4 (ST165),27284,https://www.juwra.com/acropolis_1990.html
+1990,new_zealand,Rothmans Rally of New Zealand,tierra,599.49,2111.39,65,40,43,"Sainz, Carlos",Toyota Celica GT-4 (ST165),24506,https://www.juwra.com/new_zealand_1990.html
+1990,argentina,Rally Argentina,tierra,599.4,2117.64,84,28,30,"Biasion, Massimo",Lancia Delta HF Integrale 16v,24687,https://www.juwra.com/argentina_1990.html
+1990,finland,1000 Lakes Rally,tierra,527.61,1604.11,192,92,42,"Sainz, Carlos",Toyota Celica GT-4 (ST165),16855,https://www.juwra.com/finland_1990.html
+1990,australia,Commonwealth Bank Rally Australia,tierra,570.28,2042.24,62,38,35,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,20628,https://www.juwra.com/australia_1990.html
+1990,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,614.95,2236.63,104,47,35,"Auriol, Didier",Lancia Delta HF Integrale 16v,27038,https://www.juwra.com/san_remo_1990.html
+1990,ivory_coast,Rallye Cote d'Ivoire,tierra,3088.0,3088.0,32,14,,"Tauziac, Patrick",Mitsubishi Galant VR-4,17640,https://www.juwra.com/ivory_coast_1990.html
+1990,rac_rally,Lombard RAC Rally,tierra,566.27,2358.77,184,94,41,"Sainz, Carlos",Toyota Celica GT-4 (ST165),20596,https://www.juwra.com/rac_rally_1990.html
+1991,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,628.64,3390.27,175,75,27,"Sainz, Carlos",Toyota Celica GT-4 (ST165),25041,https://www.juwra.com/monte_carlo_1991.html
+1991,sweden,International Swedish Rally,nieve,519.9,1475.1,108,74,29,"Eriksson, Kenneth",Mitsubishi Galant VR-4,17776,https://www.juwra.com/sweden_1991.html
+1991,portugal,Rallye de Portugal - Vinho do Porto,asfalto,525.3,2041.26,106,28,38,"Sainz, Carlos",Toyota Celica GT-4 (ST165),21996,https://www.juwra.com/portugal_1991.html
+1991,corsica,Tour de Corse - Rallye de France,asfalto,626.21,1384.51,101,43,27,"Sainz, Carlos",Toyota Celica GT-4 (ST165),25529,https://www.juwra.com/corsica_1991.html
+1991,acropolis,Rally Acropolis,tierra,587.8,1767.0,94,37,48,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,26405,https://www.juwra.com/acropolis_1991.html
+1991,new_zealand,Rothmans Rally of New Zealand,tierra,630.66,2053.87,61,31,40,"Sainz, Carlos",Toyota Celica GT-4 (ST165),25038,https://www.juwra.com/new_zealand_1991.html
+1991,argentina,Rally YPF Argentina,tierra,591.24,2114.0,87,34,30,"Sainz, Carlos",Toyota Celica GT-4 (ST165),23851,https://www.juwra.com/argentina_1991.html
+1991,finland,1000 Lakes Rally,tierra,524.26,1660.31,156,88,42,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,16612,https://www.juwra.com/finland_1991.html
+1991,australia,Commonwealth Bank Rally Australia,tierra,592.59,2072.12,59,36,39,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,20928,https://www.juwra.com/australia_1991.html
+1991,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,562.9,2176.3,87,40,31,"Auriol, Didier",Lancia Delta HF Integrale 16v,23666,https://www.juwra.com/san_remo_1991.html
+1991,ivory_coast,Rallye Cote d'Ivoire - Bandama,tierra,3272.82,3272.82,37,9,,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,12616,https://www.juwra.com/ivory_coast_1991.html
+1991,catalunya,Rallye Espana - Catalunya Costa Brava,asfalto,566.08,1579.05,83,33,35,"Schwarz, Armin",Toyota Celica GT-4 (ST165),24282,https://www.juwra.com/catalunya_1991.html
+1991,rac_rally,Lombard RAC Rally,tierra,565.51,2355.31,160,82,37,"Kankkunen, Juha",Lancia Delta HF Integrale 16v,20803,https://www.juwra.com/rac_rally_1991.html
+1992,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,606.08,3317.61,151,76,26,"Auriol, Didier",Lancia Delta HF Integrale,24860,https://www.juwra.com/monte_carlo_1992.html
+1992,sweden,International Swedish Rally,nieve,571.19,1674.05,94,46,31,"Jonsson, Mats",Toyota Celica GT-4 (ST165),19477,https://www.juwra.com/sweden_1992.html
+1992,portugal,Rallye de Portugal - Vinho do Porto,asfalto,577.3,2211.17,114,31,40,"Kankkunen, Juha",Lancia Delta HF Integrale,23077,https://www.juwra.com/portugal_1992.html
+1992,corsica,Tour de Corse - Rallye de France,asfalto,509.64,1164.22,107,47,27,"Auriol, Didier",Lancia Delta HF Integrale,20089,https://www.juwra.com/corsica_1992.html
+1992,acropolis,Acropolis Rally,tierra,564.06,1859.92,84,39,40,"Auriol, Didier",Lancia Delta HF Integrale,25928,https://www.juwra.com/acropolis_1992.html
+1992,new_zealand,Rothmans Rally of New Zealand,tierra,584.54,2007.49,76,41,38,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),23770,https://www.juwra.com/new_zealand_1992.html
+1992,argentina,Rally YPF Argentina,tierra,458.03,1697.34,63,32,28,"Auriol, Didier",Lancia Delta HF Integrale,17246,https://www.juwra.com/argentina_1992.html
+1992,finland,1000 Lakes Rally,tierra,524.82,1562.1,132,61,37,"Auriol, Didier",Lancia Delta HF Integrale,16365,https://www.juwra.com/finland_1992.html
+1992,australia,Telecom Rally Australia,tierra,536.62,1958.35,90,60,35,"Auriol, Didier",Lancia Delta HF Integrale,18792,https://www.juwra.com/australia_1992.html
+1992,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,497.03,2034.17,101,41,25,"Aghini, Andrea",Lancia Delta HF Integrale,21131,https://www.juwra.com/san_remo_1992.html
+1992,ivory_coast,Rallye Cote d'Ivoire - Bandama,tierra,6.86,3056.44,42,13,,"Shinozuka, Kenjiro",Mitsubishi Galant VR-4,14981,https://www.juwra.com/ivory_coast_1992.html
+1992,catalunya,Rallye Espana - Catalunya Costa Brava,asfalto,519.65,1505.08,79,31,29,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),22873,https://www.juwra.com/catalunya_1992.html
+1992,rac_rally,Lombard RAC Rally,tierra,534.77,2463.51,162,101,34,"Sainz, Carlos",Toyota Celica Turbo 4WD (ST185),19386,https://www.juwra.com/rac_rally_1992.html
+1993,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,593.62,3086.0,182,86,22,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),22423,https://www.juwra.com/monte_carlo_1993.html
+1993,sweden,International Swedish Rally,nieve,519.63,1431.32,109,52,28,"Jonsson, Mats",Toyota Celica Turbo 4WD (ST185),17345,https://www.juwra.com/sweden_1993.html
+1993,portugal,Rallye de Portugal - Vinho do Porto,asfalto,562.05,2150.83,90,32,38,"Delecour, Francois",Ford Escort RS Cosworth,22837,https://www.juwra.com/portugal_1993.html
+1993,corsica,Tour de Corse - Rallye de France,asfalto,556.42,1130.95,92,44,24,"Delecour, Francois",Ford Escort RS Cosworth,22481,https://www.juwra.com/corsica_1993.html
+1993,acropolis,Acropolis Rally,tierra,545.39,1652.38,93,46,36,"Biasion, Massimo",Ford Escort RS Cosworth,24875,https://www.juwra.com/acropolis_1993.html
+1993,argentina,Rally YPF Argentina,tierra,507.13,1836.26,86,30,25,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),19951,https://www.juwra.com/argentina_1993.html
+1993,new_zealand,Rothmans Rally of New Zealand,tierra,562.74,2032.17,75,46,36,"McRae, Colin",Subaru Legacy RS,22351,https://www.juwra.com/new_zealand_1993.html
+1993,finland,1000 Lakes Rally,tierra,507.53,1555.92,116,61,35,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),15831,https://www.juwra.com/finland_1993.html
+1993,australia,Telecom Rally Australia,tierra,550.72,1920.81,84,44,34,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),19198,https://www.juwra.com/australia_1993.html
+1993,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,520.69,1706.46,127,56,28,"Cunico, Gianfranco",Ford Escort RS Cosworth,22780,https://www.juwra.com/san_remo_1993.html
+1993,catalunya,Rallye Catalunya - Costa Brava,asfalto,513.6,1750.85,100,39,29,"Delecour, Francois",Ford Escort RS Cosworth,20179,https://www.juwra.com/catalunya_1993.html
+1993,rac_rally,Network Q RAC Rally,tierra,547.94,2628.12,171,94,35,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),23148,https://www.juwra.com/rac_rally_1993.html
+1994,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,588.43,3058.0,195,94,22,"Delecour, Francois",Ford Escort RS Cosworth,22340,https://www.juwra.com/monte_carlo_1994.html
+1994,portugal,TAP Rallye de Portugal,asfalto,571.82,2214.81,97,34,36,"Kankkunen, Juha",Toyota Celica Turbo 4WD (ST185),22859,https://www.juwra.com/portugal_1994.html
+1994,corsica,Tour de Corse - Rallye de France,asfalto,545.48,1213.35,92,43,23,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),21466,https://www.juwra.com/corsica_1994.html
+1994,acropolis,Acropolis Rally,tierra,503.53,1448.4,88,36,33,"Sainz, Carlos",Subaru Impreza 555,23798,https://www.juwra.com/acropolis_1994.html
+1994,argentina,Rally Argentina,tierra,563.9,1346.06,90,25,29,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),21042,https://www.juwra.com/argentina_1994.html
+1994,new_zealand,Rothmans Rally of New Zealand,tierra,502.7,1814.45,81,46,30,"McRae, Colin",Subaru Impreza 555,20396,https://www.juwra.com/new_zealand_1994.html
+1994,finland,Neste 1000 Lakes Rally,tierra,522.76,1558.45,89,41,35,"Makinen, Tommi",Ford Escort RS Cosworth,16424,https://www.juwra.com/finland_1994.html
+1994,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,516.63,2160.4,94,40,26,"Auriol, Didier",Toyota Celica Turbo 4WD (ST185),21400,https://www.juwra.com/san_remo_1994.html
+1994,rac_rally,Network Q RAC Rally,tierra,520.66,2366.58,178,97,29,"McRae, Colin",Subaru Impreza 555,19045,https://www.juwra.com/rac_rally_1994.html
+1995,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,546.8,2607.0,207,83,21,"Sainz, Carlos",Subaru Impreza 555,23551,https://www.juwra.com/monte_carlo_1995.html
+1995,sweden,International Swedish Rally,nieve,501.12,1632.77,95,49,25,"Eriksson, Kenneth",Mitsubishi Lancer Evo II,17487,https://www.juwra.com/sweden_1995.html
+1995,portugal,TAP Rallye de Portugal,tierra,467.05,1689.99,120,39,33,"Sainz, Carlos",Subaru Impreza 555,19957,https://www.juwra.com/portugal_1995.html
+1995,corsica,Tour de Corse - Rallye de France,asfalto,481.17,1234.04,94,44,22,"Auriol, Didier",Toyota Celica GT-Four (ST205),18889,https://www.juwra.com/corsica_1995.html
+1995,new_zealand,Smokefree Rally New Zealand,tierra,498.95,2007.16,87,56,33,"McRae, Colin",Subaru Impreza 555,19986,https://www.juwra.com/new_zealand_1995.html
+1995,australia,Telstra Rally Australia,tierra,503.05,1621.24,94,47,30,"Eriksson, Kenneth",Mitsubishi Lancer Evo III,17639,https://www.juwra.com/australia_1995.html
+1995,catalunya,"Rallye Catalunya - Costa Brava, Rallye de Espana",asfalto,474.35,1663.71,95,42,23,"Sainz, Carlos",Subaru Impreza 555,18358,https://www.juwra.com/catalunya_1995.html
+1995,rac_rally,Network Q RAC Rally,tierra,510.7,2326.92,191,95,28,"McRae, Colin",Subaru Impreza 555,18559,https://www.juwra.com/rac_rally_1995.html
+1996,sweden,International Swedish Rally,nieve,490.64,1673.53,95,55,27,"Makinen, Tommi",Mitsubishi Lancer Evo III,16630,https://www.juwra.com/sweden_1996.html
+1996,indonesia,Bank Utama Rally Indonesia,tierra,460.81,1288.76,62,29,27,"Sainz, Carlos",Ford Escort RS Cosworth,19800,https://www.juwra.com/indonesia_1996.html
+1996,acropolis,Acropolis Rally,tierra,430.85,1180.55,94,42,21,"McRae, Colin",Subaru Impreza 555,19992,https://www.juwra.com/acropolis_1996.html
+1996,argentina,Rally Argentina,tierra,516.15,1311.68,66,28,28,"Makinen, Tommi",Mitsubishi Lancer Evo III,20922,https://www.juwra.com/argentina_1996.html
+1996,finland,Neste 1000 Lakes Rally Finland,tierra,476.41,1452.41,120,60,29,"Makinen, Tommi",Mitsubishi Lancer Evo III,14653,https://www.juwra.com/finland_1996.html
+1996,australia,Rally Australia,tierra,414.63,1499.59,103,51,27,"Makinen, Tommi",Mitsubishi Lancer Evo III,14930,https://www.juwra.com/australia_1996.html
+1996,san_remo,Rallye San Remo - Rallye d'Italia,asfalto,381.15,1925.95,108,47,18,"McRae, Colin",Subaru Impreza 555,16017,https://www.juwra.com/san_remo_1996.html
+1996,catalunya,Rally Catalunya Costa Brava - Rally d'Espana,asfalto,393.26,1368.76,118,58,18,"McRae, Colin",Subaru Impreza 555,15260,https://www.juwra.com/catalunya_1996.html
+1997,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,398.31,1705.0,23,17,18,"Liatti, Piero",Subaru Impreza WRC97,16018,https://www.juwra.com/monte_carlo_1997.html
+1997,sweden,International Swedish Rally,nieve,412.64,1613.42,73,44,24,"Eriksson, Kenneth",Subaru Impreza WRC97,13909,https://www.juwra.com/sweden_1997.html
+1997,portugal,TAP Rallye de Portugal,tierra,418.28,1678.32,98,34,31,"Makinen, Tommi",Mitsubishi Lancer Evo IV,17581,https://www.juwra.com/portugal_1997.html
+1997,catalunya,Rallye Catalunya Costa Brava - Rallye de Espana,asfalto,387.72,1359.3,94,30,18,"Makinen, Tommi",Mitsubishi Lancer Evo IV,14926,https://www.juwra.com/catalunya_1997.html
+1997,corsica,Tour de Corse - Rallye de France,asfalto,408.02,998.16,62,39,18,"McRae, Colin",Subaru Impreza WRC97,16268,https://www.juwra.com/corsica_1997.html
+1997,argentina,Rally of Argentina,tierra,402.58,1151.52,51,24,23,"Makinen, Tommi",Mitsubishi Lancer Evo IV,15938,https://www.juwra.com/argentina_1997.html
+1997,acropolis,Acropolis Rally of Greece,tierra,402.86,1259.69,102,57,20,"Sainz, Carlos",Ford Escort WRC,17784,https://www.juwra.com/acropolis_1997.html
+1997,new_zealand,Smokefree Rally New Zealand,tierra,395.99,1590.42,83,51,24,"Eriksson, Kenneth",Subaru Impreza WRC97,15251,https://www.juwra.com/new_zealand_1997.html
+1997,finland,Neste Rally Finland,tierra,381.55,1171.79,105,50,22,"Makinen, Tommi",Mitsubishi Lancer Evo IV,11778,https://www.juwra.com/finland_1997.html
+1997,indonesia,Rally Indonesia,tierra,402.47,1128.83,69,36,22,"Sainz, Carlos",Ford Escort WRC,16650,https://www.juwra.com/indonesia_1997.html
+1997,australia,API Rally Australia,tierra,421.42,1526.89,87,49,24,"McRae, Colin",Subaru Impreza WRC97,14731,https://www.juwra.com/australia_1997.html
+1997,rac_rally,Network Q RAC Rally,tierra,381.05,1844.56,162,93,26,"McRae, Colin",Subaru Impreza WRC97,14071,https://www.juwra.com/rac_rally_1997.html
+1998,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,359.19,1454.53,106,60,18,"Sainz, Carlos",Toyota Corolla WRC,16080,https://www.juwra.com/monte_carlo_1998.html
+1998,sweden,Swedish Rally,nieve,381.34,1430.31,78,42,19,"Makinen, Tommi",Mitsubishi Lancer Evo IV,12772,https://www.juwra.com/sweden_1998.html
+1998,portugal,TAP Rallye de Portugal,tierra,380.18,1701.81,116,47,28,"McRae, Colin",Subaru Impreza WRC98,15658,https://www.juwra.com/portugal_1998.html
+1998,catalunya,"Rallye Catalunya - Costa Brava, Rallye de Espana",asfalto,400.71,1471.74,125,46,19,"Auriol, Didier",Toyota Corolla WRC,15517,https://www.juwra.com/catalunya_1998.html
+1998,corsica,Tour de Corse - Rallye de France,asfalto,376.55,1123.06,80,45,18,"McRae, Colin",Subaru Impreza WRC98,14567,https://www.juwra.com/corsica_1998.html
+1998,argentina,Rally Argentina,tierra,400.62,1451.72,75,30,23,"Makinen, Tommi",Mitsubishi Lancer Evo V,15727,https://www.juwra.com/argentina_1998.html
+1998,acropolis,Acropolis Rally of Greece,tierra,368.11,1011.32,105,59,17,"McRae, Colin",Subaru Impreza WRC98,15992,https://www.juwra.com/acropolis_1998.html
+1998,new_zealand,Rally New Zealand,tierra,360.58,1438.31,81,49,25,"Sainz, Carlos",Toyota Corolla WRC,14097,https://www.juwra.com/new_zealand_1998.html
+1998,finland,Neste Rally Finland,tierra,384.1,1271.1,116,62,24,"Makinen, Tommi",Mitsubishi Lancer Evo V,11816,https://www.juwra.com/finland_1998.html
+1998,sanremo,San Remo,asfalto,400.3,1494.8,160,76,24,"Makinen, Tommi",Mitsubishi Lancer Evo V,16474,https://www.juwra.com/sanremo_1998.html
+1998,australia,API Rally Australia,tierra,404.69,1408.22,94,58,24,"Makinen, Tommi",Mitsubishi Lancer Evo V,13969,https://www.juwra.com/australia_1998.html
+1998,great_britain,Network Q Rally of Great Britain,tierra,380.3,1175.9,168,82,28,"Burns, Richard",Mitsubishi Carisma GT,13831,https://www.juwra.com/great_britain_1998.html
+1999,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,424.69,1613.2,86,46,14,"Makinen, Tommi",Mitsubishi Lancer Evo VI,19011,https://www.juwra.com/monte_carlo_1999.html
+1999,sweden,International Swedish Rally,nieve,384.3,1478.4,102,64,19,"Makinen, Tommi",Mitsubishi Lancer Evo VI,12556,https://www.juwra.com/sweden_1999.html
+1999,portugal,TAP Rallye de Portugal,tierra,358.85,1768.61,117,56,23,"McRae, Colin",Ford Focus WRC,14742,https://www.juwra.com/portugal_1999.html
+1999,catalunya,"Rallye Catalunya-Costa Brava, Rallye de Espana",asfalto,380.35,1697.65,109,56,19,"Bugalski, Philippe",Citroen Xsara Kit Car,15226,https://www.juwra.com/catalunya_1999.html
+1999,corsica,Tour de Corse - Rallye de France,asfalto,353.05,1056.5,138,85,17,"Bugalski, Philippe",Citroen Xsara Kit Car,13476,https://www.juwra.com/corsica_1999.html
+1999,argentina,Rally Argentina,tierra,396.63,1528.15,84,25,22,"Kankkunen, Juha",Subaru Impreza WRC99,15435,https://www.juwra.com/argentina_1999.html
+1999,acropolis,Acropolis Rally of Greece,tierra,376.06,1363.97,113,47,21,"Burns, Richard",Subaru Impreza WRC99,15681,https://www.juwra.com/acropolis_1999.html
+1999,new_zealand,Rally New Zealand,tierra,399.84,1680.15,87,46,27,"Makinen, Tommi",Mitsubishi Lancer Evo VI,15067,https://www.juwra.com/new_zealand_1999.html
+1999,finland,Neste Rally Finland,tierra,377.26,1218.42,131,64,23,"Kankkunen, Juha",Subaru Impreza WRC99,11334,https://www.juwra.com/finland_1999.html
+1999,china,555 China Rally,tierra,319.58,1357.24,71,25,22,"Auriol, Didier",Toyota Corolla WRC,13117,https://www.juwra.com/china_1999.html
+1999,sanremo,Rallye Sanremo - Rallye d'Italia,asfalto,384.88,1384.58,124,55,18,"Makinen, Tommi",Mitsubishi Lancer Evo VI,16005,https://www.juwra.com/sanremo_1999.html
+1999,australia,Telstra Rally Australia,tierra,395.88,1424.33,89,49,23,"Burns, Richard",Subaru Impreza WRC99,13472,https://www.juwra.com/australia_1999.html
+1999,great_britain,Network Q Rally of Great Britain,tierra,389.39,1815.48,186,89,22,"Burns, Richard",Subaru Impreza WRC99,14024,https://www.juwra.com/great_britain_1999.html
+2000,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,381.41,1434.85,92,59,15,"Makinen, Tommi",Mitsubishi Lancer Evo VI,15816,https://www.juwra.com/monte_carlo_2000.html
+2000,sweden,International Swedish Rally,nieve,376.41,1708.4,87,54,20,"Gronholm, Marcus",Peugeot 206 WRC,12033,https://www.juwra.com/sweden_2000.html
+2000,portugal,TAP Rallye de Portugal,tierra,398.35,1646.96,117,48,23,"Burns, Richard",Subaru Impreza WRC2000,16440,https://www.juwra.com/portugal_2000.html
+2000,catalunya,Rallye Catalunya - Costa Brava,asfalto,383.09,1874.7,95,55,15,"McRae, Colin",Ford Focus WRC 00,14833,https://www.juwra.com/catalunya_2000.html
+2000,argentina,Argentina Rally,tierra,369.49,1552.13,88,35,22,"Burns, Richard",Subaru Impreza WRC2000,15021,https://www.juwra.com/argentina_2000.html
+2000,acropolis,Acropolis Rally,tierra,390.27,1407.56,120,48,19,"McRae, Colin",Ford Focus WRC 00,17815,https://www.juwra.com/acropolis_2000.html
+2000,new_zealand,Propecia Rally of New Zealand,tierra,373.37,1618.76,70,43,24,"Gronholm, Marcus",Peugeot 206WRC (2000),13513,https://www.juwra.com/new_zealand_2000.html
+2000,finland,Neste Rally Finland,tierra,410.18,1680.14,130,55,23,"Gronholm, Marcus",Peugeot 206WRC (2000),12157,https://www.juwra.com/finland_2000.html
+2000,cyprus,Cyprus Rally,tierra,348.41,1227.79,57,27,23,"Sainz, Carlos",Ford Focus WRC 00,19565,https://www.juwra.com/cyprus_2000.html
+2000,corsica,"V-Rally de France, 44e Tour de Corse",asfalto,368.87,1105.67,124,80,18,"Panizzi, Gilles",Peugeot 206WRC (2000),14534,https://www.juwra.com/corsica_2000.html
+2000,sanremo,"Rallye Sanremo, Rallye d'Italia",asfalto,344.98,1065.75,123,62,17,"Panizzi, Gilles",Peugeot 206WRC (2000),13927,https://www.juwra.com/sanremo_2000.html
+2000,australia,Telstra Rally Australia,tierra,391.17,1283.32,84,49,21,"Gronholm, Marcus",Peugeot 206WRC (2000),13437,https://www.juwra.com/australia_2000.html
+2000,great_britain,Network Q Rally of Great Britain,tierra,380.8,1509.48,150,79,17,"Burns, Richard",Subaru Impreza WRC2000,13382,https://www.juwra.com/great_britain_2000.html
+2001,monte_carlo,Rallye Automobile de Monte-Carlo,asfalto,352.53,1738.81,60,27,15,"Makinen, Tommi",Mitsubishi Lancer Evo 6.5,16684,https://www.juwra.com/monte_carlo_2001.html
+2001,sweden,International Swedish Rally,nieve,379.87,1932.46,83,41,17,"Rovanpera, Harri",Peugeot 206WRC (2000),12421,https://www.juwra.com/sweden_2001.html
+2001,portugal,TAP Rallye de Portugal,tierra,300.88,1705.21,97,24,22,"Makinen, Tommi",Mitsubishi Lancer Evo 6.5,222,https://www.juwra.com/portugal_2001.html
+2001,catalunya,Rallye Catalunya Costa Brava - Rallye de Espana,asfalto,347.29,1779.13,79,36,18,"Auriol, Didier",Peugeot 206WRC (2000),13255,https://www.juwra.com/catalunya_2001.html
+2001,argentina,Rally Argentina,tierra,389.58,1337.42,72,32,21,"McRae, Colin",Ford Focus RS WRC 01,15505,https://www.juwra.com/argentina_2001.html
+2001,cyprus,Cyprus Rally,tierra,341.38,1252.51,79,30,22,"McRae, Colin",Ford Focus RS WRC 01,18453,https://www.juwra.com/cyprus_2001.html
+2001,acropolis,Acropolis Rally,tierra,356.01,1613.98,115,47,20,"McRae, Colin",Ford Focus RS WRC 01,15542,https://www.juwra.com/acropolis_2001.html
+2001,finland,Neste Rally Finland,tierra,406.38,1677.13,165,79,21,"Gronholm, Marcus",Peugeot 206WRC (2001),12193,https://www.juwra.com/finland_2001.html
+2001,new_zealand,Propecia Rally New Zealand,tierra,382.46,1690.39,73,48,24,"Burns, Richard",Subaru Impreza WRC2001,13648,https://www.juwra.com/new_zealand_2001.html
+2001,sanremo,Rallye Sanremo - Rallye d'Italia,asfalto,368.12,1424.15,75,37,20,"Panizzi, Gilles",Peugeot 206WRC (2001),14750,https://www.juwra.com/sanremo_2001.html
+2001,corsica,V-Rally Tour de Corse - Rallye d'France,asfalto,366.4,903.5,93,50,16,"Puras, Jesus",Citroen Xsara WRC,14316,https://www.juwra.com/corsica_2001.html
+2001,australia,Telstra Rally Australia,tierra,351.35,1358.7,75,51,21,"Gronholm, Marcus",Peugeot 206WRC (2001),11821,https://www.juwra.com/australia_2001.html
+2001,great_britain,Network Q Rally of Great Britain,tierra,354.6,1688.51,121,50,17,"Gronholm, Marcus",Peugeot 206WRC (2001),12225,https://www.juwra.com/great_britain_2001.html
+2002,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,351.65,1424.55,55,26,15,"Makinen, Tommi",Subaru Impreza WRC2001,14371,https://www.juwra.com/monte_carlo_2002.html
+2002,sweden,Uddeholm Swedish Rally,nieve,358.8,1853.33,85,51,16,"Gronholm, Marcus",Peugeot 206WRC (2001),11249,https://www.juwra.com/sweden_2002.html
+2002,corsica,Rallye de France - Tour de Corse,asfalto,357.7,937.83,68,37,16,"Panizzi, Gilles",Peugeot 206WRC (2001),14080,https://www.juwra.com/corsica_2002.html
+2002,catalunya,Rallye Catalunya Costa Brava - Rallye de Espana,asfalto,348.12,1902.09,74,40,18,"Panizzi, Gilles",Peugeot 206WRC (2001),12849,https://www.juwra.com/catalunya_2002.html
+2002,cyprus,Cyprus Rally,tierra,294.29,1276.33,66,32,20,"Gronholm, Marcus",Peugeot 206WRC (2001),15686,https://www.juwra.com/cyprus_2002.html
+2002,argentina,Rally Argentina,tierra,358.43,1427.39,81,29,22,"Sainz, Carlos",Ford Focus RS WRC 02,14892,https://www.juwra.com/argentina_2002.html
+2002,acropolis,Acropolis Rally,tierra,374.16,1180.51,89,35,16,"McRae, Colin",Ford Focus RS WRC 02,16064,https://www.juwra.com/acropolis_2002.html
+2002,finland,Neste Rally Finland,tierra,401.68,1703.32,83,30,22,"Gronholm, Marcus",Peugeot 206WRC (2002),11872,https://www.juwra.com/finland_2002.html
+2002,deutschland,ADAC Rallye Deutschland,asfalto,393.27,1423.56,89,42,23,"Loeb, Sebastien",Citroen Xsara WRC,13637,https://www.juwra.com/deutschland_2002.html
+2002,sanremo,Rallye Sanremo - Rallye d'Italie,asfalto,385.84,1407.04,57,35,18,"Panizzi, Gilles",Peugeot 206WRC (2002),15016,https://www.juwra.com/sanremo_2002.html
+2002,new_zealand,Propecia Rally New Zealand,tierra,411.4,1792.48,82,42,26,"Gronholm, Marcus",Peugeot 206WRC (2002),14325,https://www.juwra.com/new_zealand_2002.html
+2002,australia,Telstra Rally Australia,tierra,388.64,1571.98,75,37,24,"Gronholm, Marcus",Peugeot 206WRC (2002),12956,https://www.juwra.com/australia_2002.html
+2002,great_britain,Network Q Rally of Great Britain,tierra,367.45,1614.74,94,38,17,"Solberg, Petter",Subaru Impreza WRC2002,12636,https://www.juwra.com/great_britain_2002.html
+2003,turkey,Rally of Turkey,tierra,337.88,1193.85,70,26,18,"Sainz, Carlos",Citroen Xsara WRC,16334,https://www.juwra.com/turkey_2003.html
+2004,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,307.27,1331.92,45,20,15,"Loeb, Sebastien",Citroen Xsara WRC,15123,https://www.juwra.com/monte_carlo_2004.html
+2004,sweden,Uddeholm Swedish Rally,nieve,394.8,1981.68,70,49,19,"Loeb, Sebastien",Citroen Xsara WRC,12378,https://www.juwra.com/sweden_2004.html
+2004,mexico,Corona Rally Mexico,tierra,394.43,1040.67,58,26,15,"Martin, Markko",Ford Focus RS WRC 03,14806,https://www.juwra.com/mexico_2004.html
+2004,new_zealand,Propecia Rally New Zealand,tierra,395.5,1557.89,58,35,23,"Solberg, Petter",Subaru Impreza WRC2004,14550,https://www.juwra.com/new_zealand_2004.html
+2004,cyprus,Cyprus Rally,tierra,296.35,1116.09,40,19,18,"Loeb, Sebastien",Citroen Xsara WRC,17978,https://www.juwra.com/cyprus_2004.html
+2004,acropolis,Acropolis Rally of Greece,tierra,377.13,1438.48,72,33,22,"Solberg, Petter",Subaru Impreza WRC2004,16746,https://www.juwra.com/acropolis_2004.html
+2004,turkey,Rally of Turkey,tierra,383.33,1236.44,70,32,17,"Loeb, Sebastien",Citroen Xsara WRC,17062,https://www.juwra.com/turkey_2004.html
+2004,argentina,CTI Movil Rally Argentina,tierra,382.63,1344.0,74,28,26,"Sainz, Carlos",Citroen Xsara WRC,15791,https://www.juwra.com/argentina_2004.html
+2004,finland,Neste Rally Finland,tierra,382.71,1577.16,68,34,22,"Gronholm, Marcus",Peugeot 307WRC,11236,https://www.juwra.com/finland_2004.html
+2004,deutschland,OMV ADAC Rallye Deutschland,asfalto,353.65,1018.36,69,41,24,"Loeb, Sebastien",Citroen Xsara WRC,14517,https://www.juwra.com/deutschland_2004.html
+2004,japan,Rally Japan,tierra,386.68,1707.17,90,59,27,"Solberg, Petter",Subaru Impreza WRC2004,13431,https://www.juwra.com/japan_2004.html
+2004,great_britain,Wales Rally GB,tierra,394.03,1298.12,86,42,19,"Solberg, Petter",Subaru Impreza WRC2004,13360,https://www.juwra.com/great_britain_2004.html
+2004,sardinia,Supermag Rally Italia Sardinia,tierra,383.23,1228.92,74,29,19,"Solberg, Petter",Subaru Impreza WRC2004,17028,https://www.juwra.com/sardinia_2004.html
+2004,corsica,Rallye de France - Tour de Corse,asfalto,387.8,1060.72,53,35,12,"Martin, Markko",Ford Focus RS WRC 04,15111,https://www.juwra.com/corsica_2004.html
+2004,catalunya,Rally Catalunya - Costa Brava,asfalto,351.18,1688.29,55,36,20,"Martin, Markko",Ford Focus RS WRC 04,13244,https://www.juwra.com/catalunya_2004.html
+2004,australia,Telstra Rally Australia,tierra,388.25,1426.48,68,29,25,"Loeb, Sebastien",Citroen Xsara WRC,13187,https://www.juwra.com/australia_2004.html
+2005,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,353.07,1360.13,34,24,15,"Loeb, Sebastien",Citroen Xsara WRC,15186,https://www.juwra.com/monte_carlo_2005.html
+2005,sweden,Uddeholm Swedish Rally,nieve,335.55,1726.0,74,46,20,"Solberg, Petter",Subaru Impreza WRC2004,10852,https://www.juwra.com/sweden_2005.html
+2005,mexico,Corona Rally Mexico,tierra,355.97,928.74,44,28,14,"Solberg, Petter",Subaru Impreza WRC2005,13266,https://www.juwra.com/mexico_2005.html
+2005,new_zealand,Propecia Rally New Zealand,tierra,355.77,1128.25,71,42,20,"Loeb, Sebastien",Citroen Xsara WRC,12892,https://www.juwra.com/new_zealand_2005.html
+2005,sardinia,Supermag Rally Italia Sardinia,tierra,350.03,1192.28,70,42,17,"Loeb, Sebastien",Citroen Xsara WRC,14794,https://www.juwra.com/sardinia_2005.html
+2005,cyprus,Cyprus Rally,tierra,326.68,1063.92,59,39,18,"Loeb, Sebastien",Citroen Xsara WRC,18149,https://www.juwra.com/cyprus_2005.html
+2005,turkey,Rally of Turkey,tierra,348.43,1183.54,85,54,18,"Loeb, Sebastien",Citroen Xsara WRC,15708,https://www.juwra.com/turkey_2005.html
+2005,acropolis,Acropolis Rally of Greece,tierra,349.57,1065.57,91,54,19,"Loeb, Sebastien",Citroen Xsara WRC,15174,https://www.juwra.com/acropolis_2005.html
+2005,argentina,Rally Argentina,tierra,340.82,1218.54,78,45,22,"Loeb, Sebastien",Citroen Xsara WRC,14136,https://www.juwra.com/argentina_2005.html
+2005,finland,Neste Rally Finland,tierra,355.59,1363.95,84,49,21,"Gronholm, Marcus",Peugeot 307WRC Evo2,10451,https://www.juwra.com/finland_2005.html
+2005,deutschland,OMV ADAC Rallye Deutschland,asfalto,355.4,1298.25,61,38,19,"Loeb, Sebastien",Citroen Xsara WRC,12433,https://www.juwra.com/deutschland_2005.html
+2005,great_britain,Wales Rally GB,tierra,269.99,1168.02,87,56,17,"Solberg, Petter",Subaru Impreza WRC2005,9958,https://www.juwra.com/great_britain_2005.html
+2005,japan,Rally Japan,tierra,350.18,1614.84,90,63,26,"Gronholm, Marcus",Peugeot 307WRC Evo2,12332,https://www.juwra.com/japan_2005.html
+2005,corsica,Rallye de France - Tour de Corse,asfalto,341.68,1024.48,64,40,12,"Loeb, Sebastien",Citroen Xsara WRC,12905,https://www.juwra.com/corsica_2005.html
+2005,catalunya,RallyRACC - Catalunya - Costa Daurada,asfalto,338.74,1301.84,66,40,15,"Loeb, Sebastien",Citroen Xsara WRC,12667,https://www.juwra.com/catalunya_2005.html
+2005,australia,Telstra Rally Australia,tierra,355.01,1345.41,61,43,26,"Duval, Francois",Citroen Xsara WRC,11995,https://www.juwra.com/australia_2005.html
+2006,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,324.44,1294.89,53,43,18,"Gronholm, Marcus",Ford Focus RS WRC 06,15104,https://www.juwra.com/monte_carlo_2006.html
+2006,sweden,Uddeholm Swedish Rally,nieve,349.02,1441.16,67,51,19,"Gronholm, Marcus",Ford Focus RS WRC 06,11342,https://www.juwra.com/sweden_2006.html
+2006,mexico,Corona Rally Mexico,tierra,359.54,1002.47,42,33,17,"Loeb, Sebastien",Citroen Xsara WRC,13629,https://www.juwra.com/mexico_2006.html
+2006,catalunya,RallyRACC - Catalunya - Costa Daurada,asfalto,346.43,1376.14,71,56,16,"Loeb, Sebastien",Citroen Xsara WRC,12122,https://www.juwra.com/catalunya_2006.html
+2006,corsica,Rallye de France - Tour de Corse,asfalto,354.18,1045.68,79,60,12,"Loeb, Sebastien",Citroen Xsara WRC,13385,https://www.juwra.com/corsica_2006.html
+2006,argentina,Rally Argentina,tierra,351.44,1474.82,77,57,22,"Loeb, Sebastien",Citroen Xsara WRC,14811,https://www.juwra.com/argentina_2006.html
+2006,sardinia,Rallye Italia-Sardinia,tierra,344.94,1140.18,81,60,18,"Loeb, Sebastien",Citroen Xsara WRC,14059,https://www.juwra.com/sardinia_2006.html
+2006,acropolis,BP Ultimate Acropolis Rally of Greece,tierra,355.62,1279.29,91,69,18,"Gronholm, Marcus",Ford Focus RS WRC 06,14187,https://www.juwra.com/acropolis_2006.html
+2006,deutschland,OMV ADAC Rallye Deutschland,asfalto,351.55,1300.48,77,56,19,"Loeb, Sebastien",Citroen Xsara WRC,12514,https://www.juwra.com/deutschland_2006.html
+2006,finland,Neste Rally Finland,tierra,351.61,1524.34,107,68,21,"Gronholm, Marcus",Ford Focus RS WRC 06,10370,https://www.juwra.com/finland_2006.html
+2006,japan,Rally Japan,tierra,345.72,1586.52,90,78,27,"Loeb, Sebastien",Citroen Xsara WRC,12140,https://www.juwra.com/japan_2006.html
+2006,cyprus,The Cyprus Rally,tierra,293.87,1152.53,50,27,22,"Loeb, Sebastien",Citroen Xsara WRC,16850,https://www.juwra.com/cyprus_2006.html
+2006,turkey,Rally of Turkey,tierra,268.78,1119.62,80,51,19,"Gronholm, Marcus",Ford Focus RS WRC 06,12496,https://www.juwra.com/turkey_2006.html
+2006,australia,Telstra Rally Australia,tierra,348.51,1334.41,60,45,26,"Hirvonen, Mikko",Ford Focus RS WRC 06,11712,https://www.juwra.com/australia_2006.html
+2006,new_zealand,Rally of New Zealand,tierra,354.21,1354.26,47,37,17,"Gronholm, Marcus",Ford Focus RS WRC 06,14551,https://www.juwra.com/new_zealand_2006.html
+2006,great_britain,Wales Rally GB,tierra,355.92,1206.67,116,82,17,"Gronholm, Marcus",Ford Focus RS WRC 06,12025,https://www.juwra.com/great_britain_2006.html
+2007,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,328.54,1185.22,49,39,15,"Loeb, Sebastien",Citroen C4 WRC,11427,https://www.juwra.com/monte_carlo_2007.html
+2007,sweden,Uddeholm Swedish Rally,nieve,342.09,1731.25,64,43,20,"Gronholm, Marcus",Ford Focus RS WRC 06,11321,https://www.juwra.com/sweden_2007.html
+2007,norway,Rally Norway,nieve,355.99,1109.57,81,63,18,"Hirvonen, Mikko",Ford Focus RS WRC 06,12497,https://www.juwra.com/norway_2007.html
+2007,mexico,Corona Rally Mexico,tierra,366.06,849.55,49,36,20,"Loeb, Sebastien",Citroen C4 WRC,13693,https://www.juwra.com/mexico_2007.html
+2007,portugal,Vodafone Rally de Portugal,tierra,357.1,1009.31,89,61,18,"Loeb, Sebastien",Citroen C4 WRC,14013,https://www.juwra.com/portugal_2007.html
+2007,argentina,Rally Argentina,tierra,248.26,1284.85,77,41,23,"Loeb, Sebastien",Citroen C4 WRC,10324,https://www.juwra.com/argentina_2007.html
+2007,sardinia,Rally d'Italia Sardegna,tierra,342.86,1061.84,85,67,18,"Gronholm, Marcus",Ford Focus RS WRC 06,13722,https://www.juwra.com/sardinia_2007.html
+2007,acropolis,BP Ultimate Acropolis Rally of Greece,tierra,334.44,1572.33,72,49,21,"Gronholm, Marcus",Ford Focus RS WRC 06,13763,https://www.juwra.com/acropolis_2007.html
+2007,finland,Neste Oil Rally Finland,tierra,360.34,1375.15,102,70,23,"Gronholm, Marcus",Ford Focus RS WRC 07,10646,https://www.juwra.com/finland_2007.html
+2007,deutschland,ADAC Rallye Deutschland,asfalto,356.27,1227.04,107,88,19,"Loeb, Sebastien",Citroen C4 WRC,12448,https://www.juwra.com/deutschland_2007.html
+2007,new_zealand,Rally New Zealand,tierra,353.56,1255.98,69,59,18,"Gronholm, Marcus",Ford Focus RS WRC 07,13974,https://www.juwra.com/new_zealand_2007.html
+2007,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,352.87,1359.96,84,65,18,"Loeb, Sebastien",Citroen C4 WRC,12170,https://www.juwra.com/catalunya_2007.html
+2007,corsica,Rallye de France - Tour de Corse,asfalto,341.22,1099.1,82,60,16,"Loeb, Sebastien",Citroen C4 WRC,12512,https://www.juwra.com/corsica_2007.html
+2007,japan,Rally Japan,tierra,350.19,1575.79,85,72,27,"Hirvonen, Mikko",Ford Focus RS WRC 07,12238,https://www.juwra.com/japan_2007.html
+2007,ireland,Rally Ireland,asfalto,328.72,1182.63,93,66,20,"Loeb, Sebastien",Citroen C4 WRC,10899,https://www.juwra.com/ireland_2007.html
+2007,great_britain,Wales Rally GB,tierra,359.54,1271.94,114,83,17,"Hirvonen, Mikko",Ford Focus RS WRC 07,12171,https://www.juwra.com/great_britain_2007.html
+2008,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,365.09,1481.25,50,34,19,"Loeb, Sebastien",Citroen C4 WRC,13157,https://www.juwra.com/monte_carlo_2008.html
+2008,sweden,Uddeholm Swedish Rally,nieve,309.1,1408.94,66,49,20,"Latvala, Jari-Matti",Ford Focus RS WRC 07,10001,https://www.juwra.com/sweden_2008.html
+2008,mexico,Corona Rally Mexico,tierra,331.45,808.53,42,28,20,"Loeb, Sebastien",Citroen C4 WRC,12810,https://www.juwra.com/mexico_2008.html
+2008,argentina,Rally Argentina,tierra,347.91,1619.45,61,31,21,"Loeb, Sebastien",Citroen C4 WRC,14749,https://www.juwra.com/argentina_2008.html
+2008,jordan,Jordan Rally WRC,tierra,359.26,983.44,56,33,22,"Hirvonen, Mikko",Ford Focus RS WRC 07,14568,https://www.juwra.com/jordan_2008.html
+2008,sardinia,Rallye d'Italia-Sardegna,tierra,344.73,1040.35,59,38,17,"Loeb, Sebastien",Citroen C4 WRC,14237,https://www.juwra.com/sardinia_2008.html
+2008,acropolis,BP Ultimate Acropolis Rally,tierra,331.52,1302.9,62,42,20,"Loeb, Sebastien",Citroen C4 WRC,14095,https://www.juwra.com/acropolis_2008.html
+2008,turkey,Rally of Turkey,tierra,360.12,1263.74,76,37,19,"Hirvonen, Mikko",Ford Focus RS WRC 07,16927,https://www.juwra.com/turkey_2008.html
+2008,finland,Neste Oil Rally Finland,tierra,340.42,1461.58,109,68,24,"Loeb, Sebastien",Citroen C4 WRC,10446,https://www.juwra.com/finland_2008.html
+2008,deutschland,ADAC Rallye Deutschland,asfalto,343.07,1165.09,85,57,19,"Loeb, Sebastien",Citroen C4 WRC,12380,https://www.juwra.com/deutschland_2008.html
+2008,new_zealand,Repco Rally of New Zealand,tierra,353.04,1218.2,65,35,18,"Loeb, Sebastien",Citroen C4 WRC,14359,https://www.juwra.com/new_zealand_2008.html
+2008,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,353.62,1313.99,79,48,18,"Loeb, Sebastien",Citroen C4 WRC,12077,https://www.juwra.com/catalunya_2008.html
+2008,corsica,Rallye de France - Tour de Corse,asfalto,359.02,1094.28,80,54,16,"Loeb, Sebastien",Citroen C4 WRC,13378,https://www.juwra.com/corsica_2008.html
+2008,japan,Pioneer Carrozzeria Rally Japan,tierra,310.61,1283.2,87,57,29,"Hirvonen, Mikko",Ford Focus RS WRC 08,12303,https://www.juwra.com/japan_2008.html
+2008,great_britain,Wales Rally GB,tierra,275.01,1354.46,86,47,19,"Loeb, Sebastien",Citroen C4 WRC,9790,https://www.juwra.com/great_britain_2008.html
+2009,ireland,Rally Ireland,asfalto,310.18,1349.42,43,28,19,"Loeb, Sebastien",Citroen C4 WRC,10106,https://www.juwra.com/ireland_2009.html
+2009,norway,Rally Norway,nieve,360.9,1230.15,43,34,23,"Loeb, Sebastien",Citroen C4 WRC,12496,https://www.juwra.com/norway_2009.html
+2009,cyprus,FxPro Cyprus Rally,asfalto,332.07,1197.79,35,24,14,"Loeb, Sebastien",Citroen C4 WRC,17435,https://www.juwra.com/cyprus_2009.html
+2009,portugal,Vodafone Rally de Portugal,tierra,361.36,1164.99,75,41,18,"Loeb, Sebastien",Citroen C4 WRC,13993,https://www.juwra.com/portugal_2009.html
+2009,argentina,Rally Argentina,tierra,331.8,1533.65,59,33,23,"Loeb, Sebastien",Citroen C4 WRC,14260,https://www.juwra.com/argentina_2009.html
+2009,sardinia,Rallye d'Italia-Sardegna,tierra,347.12,1263.2,60,38,17,"Latvala, Jari-Matti",Ford Focus RS WRC 09,14456,https://www.juwra.com/sardinia_2009.html
+2009,acropolis,Acropolis - Rally of Greece,tierra,341.01,1178.17,47,33,17,"Hirvonen, Mikko",Ford Focus RS WRC 09,14982,https://www.juwra.com/acropolis_2009.html
+2009,poland,Orlen Platinum Rally Poland - Rajd Polski,tierra,352.0,1024.38,55,34,18,"Hirvonen, Mikko",Ford Focus RS WRC 09,11248,https://www.juwra.com/poland_2009.html
+2009,finland,Neste Oil Rally Finland,tierra,345.15,1449.61,90,60,23,"Hirvonen, Mikko",Ford Focus RS WRC 09,10241,https://www.juwra.com/finland_2009.html
+2009,australia,Repco Rally Australia,tierra,322.06,1711.09,44,25,35,"Hirvonen, Mikko",Ford Focus RS WRC 09,10386,https://www.juwra.com/australia_2009.html
+2009,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,353.62,1299.13,80,52,18,"Loeb, Sebastien",Citroen C4 WRC,12135,https://www.juwra.com/catalunya_2009.html
+2009,great_britain,Rally of Great Britain,tierra,348.3,1466.27,64,50,16,"Loeb, Sebastien",Citroen C4 WRC,11785,https://www.juwra.com/great_britain_2009.html
+2010,sweden,Rally Sweden,nieve,345.15,1879.23,58,43,21,"Hirvonen, Mikko",Ford Focus RS WRC 09,11370,https://www.juwra.com/sweden_2010.html
+2010,mexico,Rally Mexico,tierra,347.55,877.53,35,25,22,"Loeb, Sebastien",Citroen C4 WRC,13362,https://www.juwra.com/mexico_2010.html
+2010,jordan,Jordan Rally WRC,tierra,339.48,911.78,36,27,21,"Loeb, Sebastien",Citroen C4 WRC,13896,https://www.juwra.com/jordan_2010.html
+2010,turkey,Rally of Turkey,asfalto,318.56,1063.87,43,32,23,"Loeb, Sebastien",Citroen C4 WRC,10899,https://www.juwra.com/turkey_2010.html
+2010,new_zealand,Rally of New Zealand,tierra,396.5,1496.51,57,38,21,"Latvala, Jari-Matti",Ford Focus RS WRC 09,14650,https://www.juwra.com/new_zealand_2010.html
+2010,portugal,Rally de Portugal,tierra,355.32,1223.07,75,51,18,"Ogier, Sebastien",Citroen C4 WRC,13876,https://www.juwra.com/portugal_2010.html
+2010,bulgaria,Rally Bulgaria,asfalto,329.24,1044.7,49,27,14,"Loeb, Sebastien",Citroen C4 WRC,10959,https://www.juwra.com/bulgaria_2010.html
+2010,finland,Neste Oil Rally Finland,tierra,310.05,1307.87,102,61,19,"Latvala, Jari-Matti",Ford Focus RS WRC 09,9090,https://www.juwra.com/finland_2010.html
+2010,deutschland,Rallye Deutschland,asfalto,407.31,1194.63,82,55,19,"Loeb, Sebastien",Citroen C4 WRC,14378,https://www.juwra.com/deutschland_2010.html
+2010,japan,Rally Japan,tierra,303.54,1220.43,71,53,26,"Ogier, Sebastien",Citroen C4 WRC,11426,https://www.juwra.com/japan_2010.html
+2010,alsace,Rallye de France - Alsace,asfalto,328.18,1247.61,70,49,20,"Loeb, Sebastien",Citroen C4 WRC,11149,https://www.juwra.com/alsace_2010.html
+2010,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,344.88,1301.7,53,35,16,"Loeb, Sebastien",Citroen C4 WRC,12780,https://www.juwra.com/catalunya_2010.html
+2010,great_britain,Rally of Great Britain,tierra,344.66,1598.74,63,45,20,"Loeb, Sebastien",Citroen C4 WRC,11694,https://www.juwra.com/great_britain_2010.html
+2011,sweden,Rally Sweden,nieve,351.0,2059.89,48,34,22,"Hirvonen, Mikko",Ford Fiesta RS WRC,12237,https://www.juwra.com/sweden_2011.html
+2011,mexico,Rally Guanajuato Mexico,tierra,364.87,1031.3,25,17,22,"Loeb, Sebastien",Citroen DS3 WRC,13997,https://www.juwra.com/mexico_2011.html
+2011,portugal,Vodafone Rally de Portugal,tierra,385.37,1363.55,75,38,17,"Ogier, Sebastien",Citroen DS3 WRC,15053,https://www.juwra.com/portugal_2011.html
+2011,jordan,Jordan Rally WRC,tierra,259.56,935.41,31,23,20,"Ogier, Sebastien",Citroen DS3 WRC,10108,https://www.juwra.com/jordan_2011.html
+2011,sardinia,Rally Italia Sardegna,tierra,339.7,1183.52,64,32,18,"Loeb, Sebastien",Citroen DS3 WRC,13541,https://www.juwra.com/sardinia_2011.html
+2011,argentina,Rally Argentina,asfalto,378.15,1457.08,52,27,19,"Loeb, Sebastien",Citroen DS3 WRC,14637,https://www.juwra.com/argentina_2011.html
+2011,acropolis,Acropolis Rally,tierra,348.8,1217.82,42,35,18,"Ogier, Sebastien",Citroen DS3 WRC,14684,https://www.juwra.com/acropolis_2011.html
+2011,finland,Neste Oil Rally Finland,tierra,314.39,1355.21,125,66,22,"Loeb, Sebastien",Citroen DS3 WRC,9567,https://www.juwra.com/finland_2011.html
+2011,deutschland,Deutschland,asfalto,359.59,1245.96,88,48,19,"Ogier, Sebastien",Citroen DS3 WRC,12736,https://www.juwra.com/deutschland_2011.html
+2011,australia,Rally Australia,tierra,368.96,1246.78,31,24,26,"Hirvonen, Mikko",Ford Fiesta RS WRC,12959,https://www.juwra.com/australia_2011.html
+2011,alsace,Rallye de France - Alsace,asfalto,337.43,1285.38,66,34,23,"Ogier, Sebastien",Citroen DS3 WRC,11180,https://www.juwra.com/alsace_2011.html
+2011,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,406.52,1589.9,62,44,18,"Loeb, Sebastien",Citroen DS3 WRC,14739,https://www.juwra.com/catalunya_2011.html
+2011,great_britain,Wales Rally GB,tierra,353.53,1878.67,78,39,23,"Latvala, Jari-Matti",Ford Fiesta RS WRC,12424,https://www.juwra.com/great_britain_2011.html
+2012,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,433.36,1772.52,85,54,18,"Loeb, Sebastien",Citroen DS3 WRC,16360,https://www.juwra.com/monte_carlo_2012.html
+2012,sweden,Sweden,nieve,349.16,1842.6,54,42,24,"Latvala, Jari-Matti",Ford Fiesta RS WRC,11908,https://www.juwra.com/sweden_2012.html
+2012,mexico,Rally Guanajuato Mexico,tierra,380.92,1147.81,31,19,24,"Loeb, Sebastien",Citroen DS3 WRC,15333,https://www.juwra.com/mexico_2012.html
+2012,portugal,Portugal,tierra,368.43,1497.92,57,30,22,"Ostberg, Mads",Ford Fiesta RS WRC,15676,https://www.juwra.com/portugal_2012.html
+2012,argentina,Philips Rally Argentina,tierra,502.73,1770.92,45,27,19,"Loeb, Sebastien",Citroen DS3 WRC,20079,https://www.juwra.com/argentina_2012.html
+2012,acropolis,Acropolis Rally,tierra,409.47,1661.39,55,32,22,"Loeb, Sebastien",Citroen DS3 WRC,16923,https://www.juwra.com/acropolis_2012.html
+2012,new_zealand,Brother Rally New Zealand,tierra,413.94,1657.9,44,35,22,"Loeb, Sebastien",Citroen DS3 WRC,14691,https://www.juwra.com/new_zealand_2012.html
+2012,finland,Neste Oil Rally Finland,tierra,303.52,1625.69,86,53,18,"Loeb, Sebastien",Citroen DS3 WRC,8891,https://www.juwra.com/finland_2012.html
+2012,deutschland,ADAC Rallye Deutschland,asfalto,368.63,1113.59,71,39,15,"Loeb, Sebastien",Citroen DS3 WRC,13312,https://www.juwra.com/deutschland_2012.html
+2012,great_britain,Wales Rally GB 2012,tierra,324.92,1604.05,31,29,19,"Latvala, Jari-Matti",Ford Fiesta RS WRC,11020,https://www.juwra.com/great_britain_2012.html
+2012,alsace,Rallye de France - Alsace,asfalto,394.22,1377.81,74,45,22,"Loeb, Sebastien",Citroen DS3 WRC,12773,https://www.juwra.com/alsace_2012.html
+2012,sardinia,Rally Italia Sardegna,tierra,306.04,1241.45,43,32,16,"Hirvonen, Mikko",Citroen DS3 WRC,12235,https://www.juwra.com/sardinia_2012.html
+2012,catalunya,RallyRACC Catalunya Costa Daurada,asfalto,405.46,1391.73,74,52,18,"Loeb, Sebastien",Citroen DS3 WRC,15269,https://www.juwra.com/catalunya_2012.html
+2013,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,425.93,1778.81,82,45,18,"Loeb, Sebastien",Citroen DS3 WRC,19137,https://www.juwra.com/monte_carlo_2013.html
+2013,sweden,Sweden,nieve,338.91,1589.78,47,34,22,"Ogier, Sebastien",Volkswagen Polo R WRC,11502,https://www.juwra.com/sweden_2013.html
+2013,mexico,Rally Guanajuato Mexico,tierra,394.88,1026.3,27,20,23,"Ogier, Sebastien",Volkswagen Polo R WRC,16231,https://www.juwra.com/mexico_2013.html
+2013,portugal,Vodafone Rally de Portugal,tierra,386.73,1630.92,72,38,15,"Ogier, Sebastien",Volkswagen Polo R WRC,14859,https://www.juwra.com/portugal_2013.html
+2013,argentina,Philips Rally Argentina,tierra,407.64,1576.79,34,24,14,"Loeb, Sebastien",Citroen DS3 WRC,16557,https://www.juwra.com/argentina_2013.html
+2013,acropolis,Acropolis Rally,tierra,306.53,1052.52,50,29,14,"Latvala, Jari-Matti",Volkswagen Polo R WRC,12661,https://www.juwra.com/acropolis_2013.html
+2013,sardinia,Rally Italia Sardegna,tierra,304.4,1102.33,56,36,16,"Ogier, Sebastien",Volkswagen Polo R WRC,12178,https://www.juwra.com/sardinia_2013.html
+2013,finland,Neste Oil Rally Finland,tierra,324.21,1580.02,101,58,23,"Ogier, Sebastien",Volkswagen Polo R WRC,9790,https://www.juwra.com/finland_2013.html
+2013,deutschland,ADAC Rallye Deutschland,asfalto,330.78,1202.26,84,52,16,"Sordo Castillo, Daniel",Citroen DS3 WRC,11719,https://www.juwra.com/deutschland_2013.html
+2013,australia,Coates Hire Rally Australia,tierra,352.36,932.77,30,23,22,"Ogier, Sebastien",Volkswagen Polo R WRC,11995,https://www.juwra.com/australia_2013.html
+2013,alsace,Rallye de France - Alsace,asfalto,312.14,1247.8,88,49,20,"Ogier, Sebastien",Volkswagen Polo R WRC,10388,https://www.juwra.com/alsace_2013.html
+2013,catalunya,Rally RACC Catalunya-Costa Daurada,asfalto,355.92,1389.48,64,40,15,"Ogier, Sebastien",Volkswagen Polo R WRC,12801,https://www.juwra.com/catalunya_2013.html
+2013,great_britain,Wales Rally GB,tierra,311.15,1501.21,64,44,22,"Ogier, Sebastien",Volkswagen Polo R WRC,11017,https://www.juwra.com/great_britain_2013.html
+2014,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,360.48,1373.36,72,40,15,"Ogier, Sebastien",Volkswagen Polo R WRC,14114,https://www.juwra.com/monte_carlo_2014.html
+2014,sweden,Rally Sweden,nieve,312.22,1572.01,44,30,24,"Latvala, Jari-Matti",Volkswagen Polo R WRC,10831,https://www.juwra.com/sweden_2014.html
+2014,mexico,Rally Guanajuato Mexico,tierra,399.93,1038.19,29,23,22,"Ogier, Sebastien",Volkswagen Polo R WRC,16062,https://www.juwra.com/mexico_2014.html
+2014,portugal,Vodafone Rally de Portugal,tierra,330.78,1395.87,85,59,16,"Ogier, Sebastien",Volkswagen Polo R WRC,12800,https://www.juwra.com/portugal_2014.html
+2014,argentina,XION Rally Argentina,tierra,405.1,1571.14,30,23,14,"Latvala, Jari-Matti",Volkswagen Polo R WRC,16885,https://www.juwra.com/argentina_2014.html
+2014,sardinia,Rally Italia Sardegna,tierra,364.92,1403.41,57,38,17,"Ogier, Sebastien",Volkswagen Polo R WRC,14558,https://www.juwra.com/sardinia_2014.html
+2014,poland,Lotos Rally Poland - Rajd Polski,tierra,304.21,1613.07,71,52,24,"Ogier, Sebastien",Volkswagen Polo R WRC,9242,https://www.juwra.com/poland_2014.html
+2014,finland,Neste Oil Rally Finland,tierra,360.94,1625.13,81,54,26,"Latvala, Jari-Matti",Volkswagen Polo R WRC,10643,https://www.juwra.com/finland_2014.html
+2014,deutschland,ADAC Rallye Deutschland,asfalto,313.24,1293.01,89,63,18,"Neuville, Thierry",Hyundai i20 WRC,11240,https://www.juwra.com/deutschland_2014.html
+2014,australia,Coates Hire Rally Australia,tierra,304.34,937.14,30,23,20,"Ogier, Sebastien",Volkswagen Polo R WRC,10398,https://www.juwra.com/australia_2014.html
+2014,alsace,Rallye de France - Alsace,asfalto,303.63,1232.94,97,68,18,"Latvala, Jari-Matti",Volkswagen Polo R WRC,9499,https://www.juwra.com/alsace_2014.html
+2014,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,372.96,1391.53,74,56,17,"Ogier, Sebastien",Volkswagen Polo R WRC,13605,https://www.juwra.com/catalunya_2014.html
+2014,great_britain,Wales Rally GB,tierra,305.64,1363.91,72,53,23,"Ogier, Sebastien",Volkswagen Polo R WRC,10988,https://www.juwra.com/great_britain_2014.html
+2015,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,335.55,1383.15,96,78,15,"Ogier, Sebastien",Volkswagen Polo R WRC,13000,https://www.juwra.com/monte_carlo_2015.html
+2015,sweden,Rally Sweden,nieve,308.0,1441.57,51,40,21,"Ogier, Sebastien",Volkswagen Polo R WRC,10530,https://www.juwra.com/sweden_2015.html
+2015,mexico,Rally Guanajuato Mexico,tierra,394.21,999.85,35,23,21,"Ogier, Sebastien",Volkswagen Polo R WRC,15553,https://www.juwra.com/mexico_2015.html
+2015,argentina,XION Rally Argentina,tierra,292.86,1585.63,60,26,12,"Meeke, Kris",Citroen DS3 WRC,13305,https://www.juwra.com/argentina_2015.html
+2015,portugal,Rally Vodafone de Portugal,tierra,324.56,1501.9,96,69,16,"Latvala, Jari-Matti",Volkswagen Polo R WRC,12635,https://www.juwra.com/portugal_2015.html
+2015,sardinia,Rally Italia Sardegna,tierra,394.63,1553.11,61,41,23,"Ogier, Sebastien",Volkswagen Polo R WRC,15954,https://www.juwra.com/sardinia_2015.html
+2015,poland,Lotos Rally Poland - Rajd Polski,tierra,295.83,1174.8,74,57,19,"Ogier, Sebastien",Volkswagen Polo R WRC,8772,https://www.juwra.com/poland_2015.html
+2015,finland,Neste Oil Rally Finland,tierra,320.0,1260.6,89,56,20,"Latvala, Jari-Matti",Volkswagen Polo R WRC,9184,https://www.juwra.com/finland_2015.html
+2015,deutschland,ADAC Rallye Deutschland,asfalto,374.43,1397.5,78,56,21,"Ogier, Sebastien",Volkswagen Polo R WRC,12950,https://www.juwra.com/deutschland_2015.html
+2015,australia,Coates Hire Rally Australia,tierra,311.36,1023.7,28,22,17,"Ogier, Sebastien",Volkswagen Polo R WRC,10756,https://www.juwra.com/australia_2015.html
+2015,corsica,Tour de Corse,asfalto,245.35,896.42,138,96,9,"Latvala, Jari-Matti",Volkswagen Polo R WRC,9587,https://www.juwra.com/corsica_2015.html
+2015,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,331.25,1280.72,84,64,23,"Mikkelsen, Andreas",Volkswagen Polo R WRC,12065,https://www.juwra.com/catalunya_2015.html
+2015,great_britain,Wales Rally GB,tierra,310.15,1469.29,79,58,19,"Ogier, Sebastien",Volkswagen Polo R WRC,10982,https://www.juwra.com/great_britain_2015.html
+2016,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,377.59,1488.99,90,64,16,"Ogier, Sebastien",Volkswagen Polo R WRC,13793,https://www.juwra.com/monte_carlo_2016.html
+2016,sweden,Rally Sweden,nieve,226.48,1529.04,58,38,21,"Ogier, Sebastien",Volkswagen Polo R WRC,7187,https://www.juwra.com/sweden_2016.html
+2016,mexico,Rally Guanajuato Mexico,tierra,399.71,1083.98,30,20,21,"Latvala, Jari-Matti",Volkswagen Polo R WRC,15957,https://www.juwra.com/mexico_2016.html
+2016,argentina,YPF Rally Argentina,tierra,364.68,1333.26,36,23,18,"Paddon, Hayden",Hyundai New Generation i20 WRC,13253,https://www.juwra.com/argentina_2016.html
+2016,portugal,Vodafone Rally de Portugal,tierra,368.0,1683.9,81,59,19,"Meeke, Kris",Citroen DS3 WRC,14341,https://www.juwra.com/portugal_2016.html
+2016,sardinia,Rally Italia Sardegna,tierra,324.32,1289.72,49,32,19,"Neuville, Thierry",Hyundai New Generation i20 WRC,12925,https://www.juwra.com/sardinia_2016.html
+2016,poland,PZM Rally Poland - Rajd Polski,tierra,306.1,1253.29,67,48,21,"Mikkelsen, Andreas",Volkswagen Polo R WRC,9454,https://www.juwra.com/poland_2016.html
+2016,finland,Neste Rally Finland,tierra,333.6,1369.83,82,54,24,"Meeke, Kris",Citroen DS3 WRC,9485,https://www.juwra.com/finland_2016.html
+2016,deutschland,ADAC Rallye Deutschland,asfalto,292.01,1181.99,91,67,18,"Ogier, Sebastien",Volkswagen Polo R WRC,10826,https://www.juwra.com/deutschland_2016.html
+2016,corsica,Tour de Corse,asfalto,390.92,1170.12,77,52,10,"Ogier, Sebastien",Volkswagen Polo R WRC,14837,https://www.juwra.com/corsica_2016.html
+2016,catalunya,Rally RACC Catalunya-Costa Daurada,asfalto,321.08,1378.31,70,51,19,"Ogier, Sebastien",Volkswagen Polo R WRC,11583,https://www.juwra.com/catalunya_2016.html
+2016,great_britain,Dayinsurance Wales Rally GB,tierra,332.03,1295.74,66,49,22,"Ogier, Sebastien",Volkswagen Polo R WRC,11670,https://www.juwra.com/great_britain_2016.html
+2016,australia,Kennards Hire Rally Australia,tierra,283.36,1010.89,36,25,23,"Mikkelsen, Andreas",Volkswagen Polo R WRC,9965,https://www.juwra.com/australia_2016.html
+2017,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,355.9,1385.1,76,54,17,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,14403,https://www.juwra.com/monte_carlo_2017.html
+2017,sweden,Rally Sweden,nieve,300.14,1383.58,46,32,18,"Latvala, Jari-Matti",Toyota Yaris WRC,9363,https://www.juwra.com/sweden_2017.html
+2017,mexico,Rally Guanajuato Mexico,tierra,295.88,824.78,29,22,20,"Meeke, Kris",Citroen C3 WRC,12125,https://www.juwra.com/mexico_2017.html
+2017,corsica,Che Guevara Energy Drink Tour de Corse,asfalto,316.8,1080.73,83,58,10,"Neuville, Thierry",Hyundai i20 Coupe WRC,12173,https://www.juwra.com/corsica_2017.html
+2017,argentina,YPF Rally Argentina,tierra,357.59,1418.18,26,17,18,"Neuville, Thierry",Hyundai i20 Coupe WRC,13090,https://www.juwra.com/argentina_2017.html
+2017,portugal,Vodafone Rally de Portugal,tierra,349.17,1528.81,65,41,19,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,13376,https://www.juwra.com/portugal_2017.html
+2017,sardinia,Rally Italia Sardegna,tierra,312.66,1496.37,55,41,19,"Tanak, Ott",Ford Fiesta RS WRC 2017,12315,https://www.juwra.com/sardinia_2017.html
+2017,poland,Rally Poland,tierra,312.22,1408.21,49,40,23,"Neuville, Thierry",Hyundai i20 Coupe WRC,9646,https://www.juwra.com/poland_2017.html
+2017,finland,Neste Rally Finland,tierra,314.2,1425.96,65,42,25,"Lappi, Esapekka",Toyota Yaris WRC,8966,https://www.juwra.com/finland_2017.html
+2017,deutschland,ADAC Rallye Deutschland,asfalto,309.17,1165.25,68,54,21,"Tanak, Ott",Ford Fiesta RS WRC 2017,10652,https://www.juwra.com/deutschland_2017.html
+2017,catalunya,RallyRACC Catalunya - Costa Daurada,asfalto,312.02,1297.62,72,53,19,"Meeke, Kris",Citroen C3 WRC,10881,https://www.juwra.com/catalunya_2017.html
+2017,great_britain,Dayinsure Wales Rally GB,tierra,304.36,1488.1,79,65,21,"Evans, Elfyn",Ford Fiesta RS WRC 2017,10620,https://www.juwra.com/great_britain_2017.html
+2017,australia,Kennards Hire Rally Australia,tierra,287.53,916.75,34,25,21,"Neuville, Thierry",Hyundai i20 Coupe WRC,9344,https://www.juwra.com/australia_2017.html
+2018,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,388.59,1642.4,68,47,17,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,15536,https://www.juwra.com/monte_carlo_2018.html
+2018,sweden,Rally Sweden,nieve,314.25,1400.79,68,58,19,"Neuville, Thierry",Hyundai i20 Coupe WRC,10333,https://www.juwra.com/sweden_2018.html
+2018,mexico,Rally Guanajuato Mexico,tierra,344.49,1055.88,31,21,22,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,14048,https://www.juwra.com/mexico_2018.html
+2018,corsica,Corsica Linea - Tour de Corse,asfalto,333.48,1120.1,92,71,12,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,12413,https://www.juwra.com/corsica_2018.html
+2018,argentina,YPF Rally Argentina,tierra,358.25,1300.65,30,19,18,"Tanak, Ott",Toyota Yaris WRC,13409,https://www.juwra.com/argentina_2018.html
+2018,portugal,Vodafone Rally de Portugal,tierra,358.19,1583.08,88,45,20,"Neuville, Thierry",Hyundai i20 Coupe WRC,13787,https://www.juwra.com/portugal_2018.html
+2018,sardinia,Rally Italia Sardegna,tierra,313.46,1386.38,50,34,20,"Neuville, Thierry",Hyundai i20 Coupe WRC,12559,https://www.juwra.com/sardinia_2018.html
+2018,finland,Neste Rally Finland,tierra,317.26,1426.84,72,51,23,"Tanak, Ott",Toyota Yaris WRC,9318,https://www.juwra.com/finland_2018.html
+2018,deutschland,ADAC Rallye Deutschland,asfalto,325.76,1221.89,65,45,18,"Tanak, Ott",Toyota Yaris WRC,11017,https://www.juwra.com/deutschland_2018.html
+2018,turkey,Rally Turkey Marmaris,tierra,312.44,875.34,52,31,17,"Tanak, Ott",Toyota Yaris WRC,14364,https://www.juwra.com/turkey_2018.html
+2018,great_britain,Dayinsure Wales Rally GB,tierra,318.34,1401.35,60,48,23,"Ogier, Sebastien",Ford Fiesta RS WRC 2017,11172,https://www.juwra.com/great_britain_2018.html
+2018,catalunya,RallyRACC Catalunya-Costa Daurada,asfalto,317.46,1481.61,76,53,18,"Loeb, Sebastien",Citroen C3 WRC,11528,https://www.juwra.com/catalunya_2018.html
+2018,australia,Kennards Hire Rally Australia,tierra,318.64,1017.07,29,15,24,"Latvala, Jari-Matti",Toyota Yaris WRC,10792,https://www.juwra.com/australia_2018.html
+2019,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,303.79,1346.39,84,67,16,"Ogier, Sebastien",Citroen C3 WRC,12076,https://www.juwra.com/monte_carlo_2019.html
+2019,sweden,Rally Sweden,nieve,316.8,1460.59,62,55,19,"Tanak, Ott",Toyota Yaris WRC,10050,https://www.juwra.com/sweden_2019.html
+2019,mexico,Rally Guanajuato Mexico,tierra,312.73,1002.35,24,15,21,"Ogier, Sebastien",Citroen C3 WRC,13028,https://www.juwra.com/mexico_2019.html
+2019,corsica,Corsica Linea - Tour de Corse,asfalto,347.51,1194.06,96,68,14,"Neuville, Thierry",Hyundai i20 Coupe WRC,12179,https://www.juwra.com/corsica_2019.html
+2019,argentina,Xion Rally Argentina,tierra,317.65,1270.53,27,21,18,"Neuville, Thierry",Hyundai i20 Coupe WRC,12055,https://www.juwra.com/argentina_2019.html
+2019,chile,Copec Rally Chile,tierra,304.81,1245.68,63,35,16,"Tanak, Ott",Toyota Yaris WRC,11754,https://www.juwra.com/chile_2019.html
+2019,portugal,Vodafone Rally de Portugal,tierra,306.73,1456.67,61,33,20,"Tanak, Ott",Toyota Yaris WRC,12023,https://www.juwra.com/portugal_2019.html
+2019,sardinia,Rally Italia Sardegna,tierra,295.8,1368.92,94,49,19,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,12747,https://www.juwra.com/sardinia_2019.html
+2019,finland,Neste Rally Finland,tierra,307.58,1373.67,65,49,23,"Tanak, Ott",Toyota Yaris WRC,9040,https://www.juwra.com/finland_2019.html
+2019,deutschland,ADAC Rallye Deutschland,asfalto,344.04,1228.23,56,40,19,"Tanak, Ott",Toyota Yaris WRC,11730,https://www.juwra.com/deutschland_2019.html
+2019,turkey,Rally Turkey Marmaris,tierra,309.86,986.28,31,24,17,"Ogier, Sebastien",Citroen C3 WRC,13812,https://www.juwra.com/turkey_2019.html
+2019,great_britain,Wales Rally GB,tierra,288.83,1604.41,59,47,22,"Tanak, Ott",Toyota Yaris WRC,10858,https://www.juwra.com/great_britain_2019.html
+2019,catalunya,RallyRACC Catalunya-Costa Daurada,asfalto,325.56,1288.85,64,42,17,"Neuville, Thierry",Hyundai i20 Coupe WRC,11260,https://www.juwra.com/catalunya_2019.html
+2020,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,304.28,1504.71,88,73,16,"Neuville, Thierry",Hyundai i20 Coupe WRC,11458,https://www.juwra.com/monte_carlo_2020.html
+2020,sweden,Rally Sweden,nieve,148.55,792.0,55,42,10,"Evans, Elfyn",Toyota Yaris WRC,4303,https://www.juwra.com/sweden_2020.html
+2020,mexico,Rally Guanajuato Mexico,tierra,251.6,886.0,40,21,24,"Ogier, Sebastien",Toyota Yaris WRC,10068,https://www.juwra.com/mexico_2020.html
+2020,estonia,Rally Estonia,tierra,233.4,869.4,60,44,17,"Tanak, Ott",Hyundai i20 Coupe WRC,7194,https://www.juwra.com/estonia_2020.html
+2020,turkey,Rally Turkey Marmaris,tierra,221.34,706.15,26,18,12,"Evans, Elfyn",Toyota Yaris WRC,9783,https://www.juwra.com/turkey_2020.html
+2020,sardinia,Rally Italia Sardegna,tierra,238.84,1199.15,64,50,16,"Sordo Castillo, Daniel",Hyundai i20 Coupe WRC,9698,https://www.juwra.com/sardinia_2020.html
+2020,monza,ACI Rally Monza,asfalto,193.91,466.67,95,71,16,"Ogier, Sebastien",Toyota Yaris WRC,8151,https://www.juwra.com/monza_2020.html
+2021,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,257.64,1392.88,84,62,14,"Ogier, Sebastien",Toyota Yaris WRC,10594,https://www.juwra.com/monte_carlo_2021.html
+2021,arctic,Arctic Rally Finland,nieve,251.08,856.05,57,51,10,"Tanak, Ott",Hyundai i20 Coupe WRC,7430,https://www.juwra.com/arctic_2021.html
+2021,croatia,Croatia Rally,asfalto,300.32,1270.89,68,55,20,"Ogier, Sebastien",Toyota Yaris WRC,10283,https://www.juwra.com/croatia_2021.html
+2021,portugal,Rally de Portugal,tierra,337.51,1514.07,81,44,20,"Evans, Elfyn",Toyota Yaris WRC,13106,https://www.juwra.com/portugal_2021.html
+2021,sardinia,Rally Italia Sardegna,tierra,303.1,1299.02,58,40,20,"Ogier, Sebastien",Toyota Yaris WRC,11966,https://www.juwra.com/sardinia_2021.html
+2021,safari,Safari Rally Kenya,tierra,315.26,1129.01,59,26,18,"Ogier, Sebastien",Toyota Yaris WRC,11891,https://www.juwra.com/safari_2021.html
+2021,estonia,Rally Estonia,tierra,314.16,1247.93,49,38,24,"Rovanpera, Kalle",Toyota Yaris WRC,10289,https://www.juwra.com/estonia_2021.html
+2021,ypres,Renties Ypres Rally Belgium,asfalto,286.33,940.04,108,73,20,"Neuville, Thierry",Hyundai i20 Coupe WRC,9024,https://www.juwra.com/ypres_2021.html
+2021,acropolis,EKO Acropolis Rally,tierra,292.19,1285.85,55,42,15,"Rovanpera, Kalle",Toyota Yaris WRC,12505,https://www.juwra.com/acropolis_2021.html
+2021,finland,Secto Rally Finland,tierra,287.11,1059.64,43,37,19,"Evans, Elfyn",Toyota Yaris WRC,8354,https://www.juwra.com/finland_2021.html
+2021,catalunya,RallyRACC Catalunya-Costa Daurada - Rally de Espana,asfalto,280.37,1410.2,74,49,17,"Neuville, Thierry",Hyundai i20 Coupe WRC,9252,https://www.juwra.com/catalunya_2021.html
+2021,monza,ACI Rally Monza,asfalto,253.18,675.66,82,67,16,"Ogier, Sebastien",Toyota Yaris WRC,9549,https://www.juwra.com/monza_2021.html
+2022,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,296.03,1511.47,75,62,17,"Loeb, Sebastien",Ford Puma Rally1,10833,https://www.juwra.com/monte_carlo_2022.html
+2022,sweden,Rally Sweden,nieve,264.81,1223.22,50,36,17,"Rovanpera, Kalle",Toyota GR Yaris Rally1,7845,https://www.juwra.com/sweden_2022.html
+2022,croatia,Croatia Rally,asfalto,252.23,1602.57,66,56,20,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10102,https://www.juwra.com/croatia_2022.html
+2022,portugal,Rally de Portugal,tierra,330.16,1518.52,100,53,21,"Rovanpera, Kalle",Toyota GR Yaris Rally1,13459,https://www.juwra.com/portugal_2022.html
+2022,sardinia,Rally Italia Sardegna,tierra,263.01,1258.48,60,46,21,"Tanak, Ott",Hyundai i20 N Rally1,11459,https://www.juwra.com/sardinia_2022.html
+2022,safari,Safari Rally Kenya,tierra,342.41,1202.74,34,21,19,"Rovanpera, Kalle",Toyota GR Yaris Rally1,13225,https://www.juwra.com/safari_2022.html
+2022,estonia,Rally Estonia,tierra,313.84,1486.77,43,33,24,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10469,https://www.juwra.com/estonia_2022.html
+2022,finland,Secto Rally Finland,tierra,300.92,1405.78,45,34,22,"Tanak, Ott",Hyundai i20 N Rally1,8645,https://www.juwra.com/finland_2022.html
+2022,ypres,Ardeca Ypres Rally,asfalto,267.29,672.95,88,69,20,"Tanak, Ott",Hyundai i20 N Rally1,8739,https://www.juwra.com/ypres_2022.html
+2022,acropolis,EKO Acropolis Rally,tierra,303.3,1191.37,71,53,16,"Neuville, Thierry",Hyundai i20 N Rally1,12892,https://www.juwra.com/acropolis_2022.html
+2022,new_zealand,Rally New Zealand,tierra,273.99,273.99,29,21,17,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10076,https://www.juwra.com/new_zealand_2022.html
+2022,catalunya,RallyRACC Catalunya-Costa Daurada - Rally de Espana,asfalto,269.59,1306.73,67,57,19,"Ogier, Sebastien",Toyota GR Yaris Rally1,9884,https://www.juwra.com/catalunya_2022.html
+2022,japan,Forum8 Rally Japan,asfalto,231.09,913.07,38,32,19,"Neuville, Thierry",Hyundai i20 N Rally1,9832,https://www.juwra.com/japan_2022.html
+2023,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,325.02,1534.79,75,67,18,"Ogier, Sebastien",Toyota GR Yaris Rally1,11522,https://www.juwra.com/monte_carlo_2023.html
+2023,sweden,Rally Sweden,nieve,301.18,1192.53,52,45,18,"Tanak, Ott",Ford Puma Rally1,8754,https://www.juwra.com/sweden_2023.html
+2023,mexico,Rally Guanajuato Mexico,tierra,305.89,955.07,32,28,23,"Ogier, Sebastien",Toyota GR Yaris Rally1,11769,https://www.juwra.com/mexico_2023.html
+2023,croatia,Croatia Rally,asfalto,301.26,1649.68,57,48,20,"Evans, Elfyn",Toyota GR Yaris Rally1,10254,https://www.juwra.com/croatia_2023.html
+2023,portugal,Rally de Portugal,tierra,325.35,1644.92,87,47,19,"Rovanpera, Kalle",Toyota GR Yaris Rally1,12912,https://www.juwra.com/portugal_2023.html
+2023,sardinia,Rally Italia Sardegna,tierra,322.75,1170.06,74,59,19,"Neuville, Thierry",Hyundai i20 N Rally1,13201,https://www.juwra.com/sardinia_2023.html
+2023,safari,Safari Rally Kenya,tierra,355.92,1191.41,34,20,19,"Ogier, Sebastien",Toyota GR Yaris Rally1,12642,https://www.juwra.com/safari_2023.html
+2023,estonia,Rally Estonia,tierra,300.42,1364.86,54,44,21,"Rovanpera, Kalle",Toyota GR Yaris Rally1,9363,https://www.juwra.com/estonia_2023.html
+2023,finland,Secto Rally Finland,tierra,320.56,1471.63,68,49,22,"Evans, Elfyn",Toyota GR Yaris Rally1,9191,https://www.juwra.com/finland_2023.html
+2023,acropolis,EKO Acropolis Rally,tierra,270.89,1198.17,72,52,15,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10817,https://www.juwra.com/acropolis_2023.html
+2023,chile,Rally Chile Biobio,tierra,320.98,1239.43,55,36,16,"Tanak, Ott",Ford Puma Rally1,11198,https://www.juwra.com/chile_2023.html
+2023,central_european_rally,Central European Rally,asfalto,310.01,1690.67,68,54,18,"Neuville, Thierry",Hyundai i20 N Rally1,10360,https://www.juwra.com/central_european_rally_2023.html
+2023,japan,Forum8 Rally Japan,asfalto,281.59,936.42,36,28,22,"Evans, Elfyn",Toyota GR Yaris Rally1,12729,https://www.juwra.com/japan_2023.html
+2024,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,324.44,1649.89,70,64,17,"Neuville, Thierry",Hyundai i20 N Rally1,11371,https://www.juwra.com/monte_carlo_2024.html
+2024,sweden,Rally Sweden,nieve,300.1,1202.11,57,50,18,"Lappi, Esapekka",Hyundai i20 N Rally1,9185,https://www.juwra.com/sweden_2024.html
+2024,safari,Safari Rally Kenya,tierra,367.76,1267.57,29,22,19,"Rovanpera, Kalle",Toyota GR Yaris Rally1,12964,https://www.juwra.com/safari_2024.html
+2024,croatia,Croatia Rally,asfalto,283.28,1401.93,68,62,20,"Ogier, Sebastien",Toyota GR Yaris Rally1,9624,https://www.juwra.com/croatia_2024.html
+2024,portugal,Rally de Portugal,tierra,337.04,1690.12,69,34,22,"Ogier, Sebastien",Toyota GR Yaris Rally1,13292,https://www.juwra.com/portugal_2024.html
+2024,sardinia,Rally Italia Sardegna,tierra,266.12,1035.46,87,68,16,"Tanak, Ott",Hyundai i20 N Rally1,11166,https://www.juwra.com/sardinia_2024.html
+2024,poland,Rally Poland,tierra,277.06,1349.54,45,40,19,"Rovanpera, Kalle",Toyota GR Yaris Rally1,9188,https://www.juwra.com/poland_2024.html
+2024,latvia,Tet Rally Latvia,tierra,300.13,1348.83,40,32,20,"Rovanpera, Kalle",Toyota GR Yaris Rally1,9108,https://www.juwra.com/latvia_2024.html
+2024,finland,Secto Rally Finland,tierra,305.69,1372.56,81,55,20,"Ogier, Sebastien",Toyota GR Yaris Rally1,8742,https://www.juwra.com/finland_2024.html
+2024,acropolis,EKO Acropolis Rally,tierra,305.3,1392.24,72,52,15,"Neuville, Thierry",Hyundai i20 N Rally1,13084,https://www.juwra.com/acropolis_2024.html
+2024,chile,Rally Chile Biobio,tierra,287.04,1219.51,46,37,16,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10740,https://www.juwra.com/chile_2024.html
+2024,central_european_rally,Central European Rally,asfalto,302.51,1584.44,44,40,18,"Tanak, Ott",Hyundai i20 N Rally1,9455,https://www.juwra.com/central_european_rally_2024.html
+2024,japan,Forum8 Rally Japan,asfalto,279.8,997.24,44,38,21,"Evans, Elfyn",Toyota GR Yaris Rally1,12221,https://www.juwra.com/japan_2024.html
+2025,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,316.38,1601.95,70,62,18,"Ogier, Sebastien",Toyota GR Yaris Rally1,11946,https://www.juwra.com/monte_carlo_2025.html
+2025,sweden,Rally Sweden,nieve,293.84,1053.67,62,56,18,"Evans, Elfyn",Toyota GR Yaris Rally1,9219,https://www.juwra.com/sweden_2025.html
+2025,safari,Safari Rally Kenya,tierra,383.1,1381.92,39,21,21,"Evans, Elfyn",Toyota GR Yaris Rally1,15604,https://www.juwra.com/safari_2025.html
+2025,canarias,Rally Islas Canarias,asfalto,301.3,1082.2,63,53,18,"Rovanpera, Kalle",Toyota GR Yaris Rally1,10480,https://www.juwra.com/canarias_2025.html
+2025,portugal,Rally de Portugal,tierra,344.4,1788.68,95,66,24,"Ogier, Sebastien",Toyota GR Yaris Rally1,13716,https://www.juwra.com/portugal_2025.html
+2025,sardinia,Rally Italia Sardegna,tierra,320.08,1191.44,68,42,16,"Ogier, Sebastien",Toyota GR Yaris Rally1,12864,https://www.juwra.com/sardinia_2025.html
+2025,acropolis,EKO Acropolis Rally,tierra,345.76,1422.04,69,49,17,"Tanak, Ott",Hyundai i20 N Rally1,15140,https://www.juwra.com/acropolis_2025.html
+2025,estonia,Delfi Rally Estonia,tierra,308.35,1240.54,41,30,20,"Solberg, Oliver",Toyota GR Yaris Rally1,9395,https://www.juwra.com/estonia_2025.html
+2025,finland,Secto Rally Finland,tierra,307.22,1400.39,66,54,20,"Rovanpera, Kalle",Toyota GR Yaris Rally1,8511,https://www.juwra.com/finland_2025.html
+2025,paraguay,Rally del Paraguay,tierra,333.18,1003.69,48,40,19,"Ogier, Sebastien",Toyota GR Yaris Rally1,10807,https://www.juwra.com/paraguay_2025.html
+2025,chile,Rally Chile Biobio,tierra,306.76,1239.07,49,39,16,"Ogier, Sebastien",Toyota GR Yaris Rally1,10542,https://www.juwra.com/chile_2025.html
+2025,central_european_rally,Central European Rally,asfalto,293.71,1432.32,47,36,18,"Rovanpera, Kalle",Toyota GR Yaris Rally1,9380,https://www.juwra.com/central_european_rally_2025.html
+2025,japan,Forum8 Rally Japan,asfalto,305.34,933.87,38,29,20,"Ogier, Sebastien",Toyota GR Yaris Rally1,12069,https://www.juwra.com/japan_2025.html
+2025,saudiarabia,Rally Saudi Arabia,tierra,312.26,1221.45,41,32,17,"Neuville, Thierry",Hyundai i20 N Rally1,12077,https://www.juwra.com/saudiarabia_2025.html
+2026,monte_carlo,Rallye Automobile Monte-Carlo,asfalto,339.15,1553.22,66,48,17,"Solberg, Oliver",Toyota GR Yaris Rally1,15899,https://www.juwra.com/monte_carlo_2026.html
+2026,sweden,Rally Sweden,nieve,300.66,1069.44,59,48,18,"Evans, Elfyn",Toyota GR Yaris Rally1,9353,https://www.juwra.com/sweden_2026.html
+2026,safari,Safari Rally Kenya,tierra,295.58,1118.93,46,29,20,"Katsuta, Takamoto",Toyota GR Yaris Rally1,11766,https://www.juwra.com/safari_2026.html
+2026,croatia,Croatia Rally,asfalto,300.28,1136.6,51,44,20,"Katsuta, Takamoto",Toyota GR Yaris Rally1,10276,https://www.juwra.com/croatia_2026.html
+2026,canarias,Rally Islas Canarias,asfalto,282.68,1290.54,59,51,18,"Ogier, Sebastien",Toyota GR Yaris Rally1,9799,https://www.juwra.com/canarias_2026.html
+2026,portugal,Rally de Portugal,tierra,344.91,1874.58,70,47,23,"Neuville, Thierry",Hyundai i20 N Rally1,13982,https://www.juwra.com/portugal_2026.html
+2026,japan,Forum8 Rally Japan,asfalto,302.82,905.27,32,29,20,"Evans, Elfyn",Toyota GR Yaris Rally1,11828,https://www.juwra.com/japan_2026.html
+2026,acropolis,EKO Acropolis Rally,tierra,323.31,1488.63,58,45,17,"Ogier, Sebastien",Toyota GR Yaris Rally1,13001,https://www.juwra.com/acropolis_2026.html
+2026,estonia,Delfi Rally Estonia,tierra,301.8,1022.36,53,46,18,"Pajari, Sami",Toyota GR Yaris Rally1,9076,https://www.juwra.com/estonia_2026.html
+2026,finland,Secto Rally Finland,tierra,316.04,1278.06,61,48,20,"Pajari, Sami",Toyota GR Yaris Rally1,8878,https://www.juwra.com/finland_2026.html
+2026,paraguay,ueno Rally del Paraguay,tierra,338.01,916.89,60,44,22,"Pajari, Sami",Toyota GR Yaris Rally1,11608,https://www.juwra.com/paraguay_2026.html
+2026,chile,Rally Chile Biobio,tierra,311.18,1169.48,56,36,16,"Solberg, Oliver",Toyota GR Yaris Rally1,10628,https://www.juwra.com/chile_2026.html
+2026,sardinia,Rally Italia Sardegna,tierra,307.15,1630.48,61,44,17,"Solberg, Oliver",Toyota GR Yaris Rally1,12297,https://www.juwra.com/sardinia_2026.html
