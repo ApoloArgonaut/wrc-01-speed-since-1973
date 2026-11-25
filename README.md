@@ -133,15 +133,14 @@ de fabricar un hallazgo que no existe.
 
 ## Cómo lo hice
 
-```
-juwra.com/calendar_<año>.html        → rallys de la temporada
-juwra.com/<slug>_<año>.html          → superficie, distancia de tramos, inscritos, finalizados
-juwra.com/<slug>_<año>_results.html  → ganador y tiempo total
-```
+El archivo publica una página por temporada con el calendario, y una ficha por
+rally con la superficie, los kilómetros cronometrados y el conteo de inscritos y
+finalizados. Recorro las temporadas una por una, leo esas fichas y guardo solo los
+campos que el análisis necesita.
 
-El sitio exige un `User-Agent` de navegador; sin él devuelve HTML vacío. El
-scraper es idempotente, así que se puede cortar a la mitad y retomar sin duplicar
-filas.
+Tomé dos decisiones que conviene dejar dichas. Cada fila conserva la referencia del
+rally del que salió, para poder auditarla después. Y el recolector es idempotente:
+si se corta a la mitad, al volver a arrancar retoma donde quedó sin duplicar filas.
 
 De los 633 rallys, 609 pasan el filtro y 24 se descartan con el motivo registrado:
 
