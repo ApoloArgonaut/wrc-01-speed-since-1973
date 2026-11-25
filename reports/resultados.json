@@ -1,0 +1,226 @@
+{
+  "filas_crudas": 633,
+  "filas_limpias": 609,
+  "descartadas": 24,
+  "motivos": {
+    "distancia_imposible": 19,
+    "velocidad_imposible": 5,
+    "superficie_desconocida": 0
+  },
+  "rango_anios": [
+    1973,
+    2026
+  ],
+  "media_1973_1979": 81.15,
+  "media_2020_2026": 101.1,
+  "delta_total": 19.95,
+  "contraste_1981": {
+    "did": -2.825,
+    "did_ee": 4.223,
+    "did_t": -0.67,
+    "grupos": {
+      "asfalto": {
+        "pre_media": 78.623,
+        "pre_n": 27,
+        "post_media": 84.597,
+        "post_n": 24,
+        "delta": 5.974,
+        "pre_ee": 1.468,
+        "post_ee": 0.896
+      },
+      "tierra": {
+        "pre_media": 89.059,
+        "pre_n": 19,
+        "post_media": 92.208,
+        "post_n": 30,
+        "delta": 3.149,
+        "pre_ee": 3.289,
+        "post_ee": 2.015
+      }
+    }
+  },
+  "por_decada": [
+    {
+      "decada": 1970,
+      "superficie": "asfalto",
+      "vel_media": 75.92,
+      "n": 30
+    },
+    {
+      "decada": 1970,
+      "superficie": "nieve",
+      "vel_media": 78.64,
+      "n": 4
+    },
+    {
+      "decada": 1970,
+      "superficie": "tierra",
+      "vel_media": 88.75,
+      "n": 22
+    },
+    {
+      "decada": 1980,
+      "superficie": "asfalto",
+      "vel_media": 83.5,
+      "n": 40
+    },
+    {
+      "decada": 1980,
+      "superficie": "nieve",
+      "vel_media": 100.94,
+      "n": 10
+    },
+    {
+      "decada": 1980,
+      "superficie": "tierra",
+      "vel_media": 90.5,
+      "n": 50
+    },
+    {
+      "decada": 1990,
+      "superficie": "asfalto",
+      "vel_media": 88.62,
+      "n": 39
+    },
+    {
+      "decada": 1990,
+      "superficie": "nieve",
+      "vel_media": 106.57,
+      "n": 8
+    },
+    {
+      "decada": 1990,
+      "superficie": "tierra",
+      "vel_media": 95.16,
+      "n": 61
+    },
+    {
+      "decada": 2000,
+      "superficie": "asfalto",
+      "vel_media": 94.4,
+      "n": 37
+    },
+    {
+      "decada": 2000,
+      "superficie": "nieve",
+      "vel_media": 110.1,
+      "n": 10
+    },
+    {
+      "decada": 2000,
+      "superficie": "tierra",
+      "vel_media": 94.28,
+      "n": 83
+    },
+    {
+      "decada": 2010,
+      "superficie": "asfalto",
+      "vel_media": 99.58,
+      "n": 41
+    },
+    {
+      "decada": 2010,
+      "superficie": "nieve",
+      "vel_media": 108.51,
+      "n": 10
+    },
+    {
+      "decada": 2010,
+      "superficie": "tierra",
+      "vel_media": 98.78,
+      "n": 79
+    },
+    {
+      "decada": 2020,
+      "superficie": "asfalto",
+      "vel_media": 98.41,
+      "n": 28
+    },
+    {
+      "decada": 2020,
+      "superficie": "nieve",
+      "vel_media": 119.91,
+      "n": 7
+    },
+    {
+      "decada": 2020,
+      "superficie": "tierra",
+      "vel_media": 99.98,
+      "n": 50
+    }
+  ],
+  "control_longitud": {
+    "correlacion_distancia_velocidad": -0.368,
+    "delta_1970s_2020s": 16.47,
+    "por_decada": [
+      {
+        "decada": 1970,
+        "vel_media": 84.95,
+        "n": 10
+      },
+      {
+        "decada": 1980,
+        "vel_media": 99.38,
+        "n": 3
+      },
+      {
+        "decada": 1990,
+        "vel_media": 95.73,
+        "n": 27
+      },
+      {
+        "decada": 2000,
+        "vel_media": 94.92,
+        "n": 125
+      },
+      {
+        "decada": 2010,
+        "vel_media": 100.34,
+        "n": 118
+      },
+      {
+        "decada": 2020,
+        "vel_media": 101.42,
+        "n": 79
+      }
+    ]
+  },
+  "por_superficie": [
+    {
+      "superficie": "nieve",
+      "antes": 78.64,
+      "antes_n": 4,
+      "despues": 119.91,
+      "despues_n": 7,
+      "delta": 41.27
+    },
+    {
+      "superficie": "asfalto",
+      "antes": 75.92,
+      "antes_n": 30,
+      "despues": 98.41,
+      "despues_n": 28,
+      "delta": 22.49
+    },
+    {
+      "superficie": "tierra",
+      "antes": 88.75,
+      "antes_n": 22,
+      "despues": 99.98,
+      "despues_n": 50,
+      "delta": 11.23
+    }
+  ],
+  "fiabilidad": {
+    "1973-1990": 39.6,
+    "1991-2009": 55.3,
+    "2010-2026": 71.3
+  },
+  "figuras": [
+    "reports/figures/01-serie-temporal.png",
+    "reports/figures/02-antes-despues-1981.png",
+    "reports/figures/03-brecha-superficie.png",
+    "reports/figures/04-distancia.png",
+    "reports/figures/05-velocidad-vs-distancia.png"
+  ]
+}

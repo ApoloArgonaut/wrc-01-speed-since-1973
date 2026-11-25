@@ -1,4 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
-reports/resultados.json
+*.log
+prueba*.csv
+rallys_v1_descartado.csv
